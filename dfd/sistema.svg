@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="711px"
+   height="252px"
+   viewBox="-0.5 -0.5 711 252"
+   animation="{&quot;meta&quot;:{&quot;version&quot;:20230504,&quot;patch&quot;:1},&quot;page&quot;:{&quot;animationInfo&quot;:{}},&quot;infos&quot;:[{&quot;cell&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;parentId&quot;:null,&quot;childrenIds&quot;:[&quot;1&quot;],&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:null,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;1&quot;,&quot;parentId&quot;:&quot;0&quot;,&quot;childrenIds&quot;:[&quot;32nQJb8aB2A52hpl7Cy5-1&quot;,&quot;32nQJb8aB2A52hpl7Cy5-3&quot;,&quot;32nQJb8aB2A52hpl7Cy5-4&quot;,&quot;32nQJb8aB2A52hpl7Cy5-95&quot;,&quot;32nQJb8aB2A52hpl7Cy5-96&quot;,&quot;32nQJb8aB2A52hpl7Cy5-7&quot;,&quot;32nQJb8aB2A52hpl7Cy5-20&quot;,&quot;32nQJb8aB2A52hpl7Cy5-21&quot;,&quot;32nQJb8aB2A52hpl7Cy5-91&quot;,&quot;32nQJb8aB2A52hpl7Cy5-32&quot;,&quot;32nQJb8aB2A52hpl7Cy5-38&quot;,&quot;32nQJb8aB2A52hpl7Cy5-39&quot;,&quot;32nQJb8aB2A52hpl7Cy5-44&quot;,&quot;32nQJb8aB2A52hpl7Cy5-45&quot;],&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:null,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-1&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:[&quot;32nQJb8aB2A52hpl7Cy5-2&quot;],&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:null,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-2&quot;,&quot;parentId&quot;:&quot;32nQJb8aB2A52hpl7Cy5-1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-text\&quot;]}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-3&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:&quot;doubleEllipse&quot;,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-4&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-95&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:[],&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:null,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-96&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:null,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-7&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:&quot;doubleEllipse&quot;,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-20&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-21&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-91&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:[&quot;32nQJb8aB2A52hpl7Cy5-92&quot;],&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:null,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-92&quot;,&quot;parentId&quot;:&quot;32nQJb8aB2A52hpl7Cy5-91&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-text\&quot;]}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-32&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-38&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-39&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:[&quot;32nQJb8aB2A52hpl7Cy5-40&quot;],&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-shapes\&quot;],\&quot;libraryId\&quot;:\&quot;com.vp.metadiagram.threatmodeldiagram.threat_model diagram\&quot;,\&quot;libraryTitle\&quot;:\&quot;Threat Model Diagram\&quot;}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:false,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-40&quot;,&quot;parentId&quot;:&quot;32nQJb8aB2A52hpl7Cy5-39&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-text\&quot;]}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-44&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-text\&quot;]}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null},{&quot;cell&quot;:{&quot;id&quot;:&quot;32nQJb8aB2A52hpl7Cy5-45&quot;,&quot;parentId&quot;:&quot;1&quot;,&quot;childrenIds&quot;:null,&quot;groupParentId&quot;:null,&quot;groupChildrenIds&quot;:null,&quot;shapeType&quot;:null,&quot;origin&quot;:&quot;{\&quot;product\&quot;:\&quot;diagram\&quot;,\&quot;paletteTabs\&quot;:[\&quot;palette-tab-text\&quot;]}&quot;,&quot;fromLibraryId&quot;:null,&quot;vertex&quot;:true,&quot;maskedCell&quot;:false,&quot;textCell&quot;:false,&quot;calloutCell&quot;:false,&quot;imageShape&quot;:false,&quot;webComponentType&quot;:null},&quot;animationInfo&quot;:null}],&quot;pageMeta&quot;:{&quot;audios&quot;:[],&quot;videos&quot;:[],&quot;assets&quot;:[],&quot;video_duration&quot;:1,&quot;page_width&quot;:1100,&quot;page_height&quot;:850,&quot;page_hash&quot;:&quot;06aa131e-479d-4ff7-834e-84d6bf5ef466&quot;}}"
+   threeDAnimation="{&quot;pageSize&quot;:{&quot;x&quot;:0,&quot;y&quot;:0,&quot;width&quot;:1100,&quot;height&quot;:850},&quot;characters&quot;:[],&quot;assetIdInfoMap&quot;:{}}"
+   style="background-color: rgb(255, 255, 255);"
+   id="svg52"
+   sodipodi:docname="sistema.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <sodipodi:namedview
+     id="namedview52"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.8085366"
+     inkscape:cx="246.92574"
+     inkscape:cy="116.25271"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="1028"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs2">
+    <style
+       type="text/css"
+       id="style1">ul { margin-top: 0px; margin-bottom: 10px; }&#10;ol { margin-top: 0px; margin-bottom: 10px; }&#10;.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 { margin-bottom: .5rem; font-weight: 500; line-height: 1.2; }&#10;h1, h2, h3, h4, h5, h6 { margin-top: 0; margin-bottom: .5rem; }&#10;.h1, h1 { font-size: 2.5rem; }&#10;h2 { font-size: 1.5em; font-weight: bold; }&#10;h3 { font-size: 1.17em; font-weight: bold; }&#10;.h4, h4 { font-size: 1.5rem; }&#10;.h5, h5 { font-size: 1.25rem; }&#10;.h6, h6 { font-size: 1rem; }&#10;p { margin-top: 0; margin-bottom: 1rem; }&#10;a { color: #007bff; }&#10;</style>
+    <style
+       type="text/css"
+       id="style2">@import url(&quot;https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap&quot;);&#10;@import url(&quot;https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap&quot;);&#10;</style>
+  </defs>
+  <g
+     id="g51">
+    <g
+       shape-node=""
+       id="g3">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-1"
+         d="M 297 129.25 L 382.13 129.02"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path2" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-1"
+         d="M 388.88 129 L 379.89 133.53 L 382.13 129.02 L 379.87 124.53 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path3" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g5">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-2"
+         transform="translate(-0.5 -0.5)"
+         id="g4">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-2"
+           id="switch3">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-2"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 119px; margin-left: 335px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">LoRa / MQTT</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg3">
+            <defs
+               id="defs3">
+              <path
+                 id="t6gMnQmBQenOnwIs"
+                 d="M302.1875,124.29996337890626 h66.625" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text3"><textPath
+                 xlink:href="#t6gMnQmBQenOnwIs"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath3"><tspan
+                   xml:space="preserve"
+                   id="tspan3">LoRa / MQTT</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g6">
+      <ellipse
+         cell-id="32nQJb8aB2A52hpl7Cy5-3"
+         cx="247"
+         cy="129.5"
+         rx="50"
+         ry="50"
+         fill="#ffffff"
+         stroke="#000000"
+         pointer-events="all"
+         id="ellipse5" />
+      <ellipse
+         cell-id="32nQJb8aB2A52hpl7Cy5-3"
+         cx="247"
+         cy="129.5"
+         rx="46"
+         ry="46"
+         fill="none"
+         stroke="#000000"
+         pointer-events="all"
+         id="ellipse6" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g8">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-3"
+         transform="translate(-0.5 -0.5)"
+         id="g7">
+        <text
+           xml:space="preserve"
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           x="247.08629"
+           y="123.5519"
+           id="text1"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             x="247.08629"
+             y="123.5519"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Dispositivo</tspan><tspan
+             sodipodi:role="line"
+             x="247.08629"
+             y="138.66133"
+             id="tspan2"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Microcontrolador</tspan></text>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g9">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-4"
+         d="M 355 47 Q 378 47 378 141 Q 378 235 355 235"
+         fill="none"
+         stroke="#cc0000"
+         stroke-width="2"
+         stroke-miterlimit="10"
+         stroke-dasharray="6 6"
+         pointer-events="stroke"
+         id="path8" />
+    </g>
+    <g
+       shape-node=""
+       id="g10">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-95"
+         d="M 440 79.5 L 440 65 Q 440 55 450 55 L 590.63 55"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path9" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-95"
+         d="M 595.88 55 L 588.88 58.5 L 590.63 55 L 588.88 51.5 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path10" />
+    </g>
+    <g
+       shape-node=""
+       id="g12">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-96"
+         d="M 440 179.5 L 440 200 Q 440 210 450 210 L 590.63 210"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path11" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-96"
+         d="M 595.88 210 L 588.88 213.5 L 590.63 210 L 588.88 206.5 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path12" />
+    </g>
+    <g
+       shape-node=""
+       id="g13">
+      <ellipse
+         cell-id="32nQJb8aB2A52hpl7Cy5-7"
+         cx="440"
+         cy="129.5"
+         rx="50"
+         ry="50"
+         fill="#ffffff"
+         stroke="#000000"
+         pointer-events="all"
+         id="ellipse12" />
+      <ellipse
+         cell-id="32nQJb8aB2A52hpl7Cy5-7"
+         cx="440"
+         cy="129.5"
+         rx="46"
+         ry="46"
+         fill="none"
+         stroke="#000000"
+         pointer-events="all"
+         id="ellipse13" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g15">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-7"
+         transform="translate(-0.5 -0.5)"
+         id="g14">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-7"
+           id="switch13">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-7"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 90px; height: 1px; padding-top: 129px; margin-left: 395px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Gateway</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg13">
+            <defs
+               id="defs13">
+              <path
+                 id="76gMnQmBQenOnwIu"
+                 d="M416.3125,134.39998779296874 h47.36249923706055" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="12px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text13"><textPath
+                 xlink:href="#76gMnQmBQenOnwIu"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath13"><tspan
+                   xml:space="preserve"
+                   id="tspan13">Gateway</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g16">
+      <rect
+         cell-id="32nQJb8aB2A52hpl7Cy5-20"
+         x="597"
+         y="27"
+         width="103"
+         height="56"
+         fill="#ffffff"
+         stroke="#000000"
+         pointer-events="all"
+         id="rect15" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g18">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-20"
+         transform="translate(-0.5 -0.5)"
+         id="g17">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-20"
+           id="switch16">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-20"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 101px; height: 1px; padding-top: 55px; margin-left: 598px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">User</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg16">
+            <defs
+               id="defs16">
+              <path
+                 id="X6gMnQmBQenOnwIv"
+                 d="M635.8250122070312,60.39998779296875 h25.337499618530273" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="12px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text16"><textPath
+                 xlink:href="#X6gMnQmBQenOnwIv"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath16"><tspan
+                   xml:space="preserve"
+                   id="tspan16">User</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g19">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-21"
+         d="M 126 35 Q 149 35 149 129 Q 149 223 126 223"
+         fill="none"
+         stroke="#cc0000"
+         stroke-width="2"
+         stroke-miterlimit="10"
+         stroke-dasharray="6 6"
+         pointer-events="stroke"
+         id="path18" />
+    </g>
+    <g
+       shape-node=""
+       id="g20">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-91"
+         d="M 104 129 L 190.63 129"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path19" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-91"
+         d="M 195.88 129 L 188.88 132.5 L 190.63 129 L 188.88 125.5 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path20" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g22">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-92"
+         transform="translate(-0.5 -0.5)"
+         id="g21">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-92"
+           id="switch20">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-92"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 120px; margin-left: 125px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">Data</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg20">
+            <defs
+               id="defs20">
+              <path
+                 id="QGgMnQmBQenOnwIw"
+                 d="M113.88750457763672,125.29996337890626 h23.23750114440918" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text20"><textPath
+                 xlink:href="#QGgMnQmBQenOnwIw"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath20"><tspan
+                   xml:space="preserve"
+                   id="tspan20">Data</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g23">
+      <rect
+         cell-id="32nQJb8aB2A52hpl7Cy5-32"
+         x="10"
+         y="104"
+         width="94"
+         height="49"
+         fill="#ffffff"
+         stroke="#000000"
+         pointer-events="all"
+         id="rect22" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g25">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-32"
+         transform="translate(-0.5 -0.5)"
+         id="g24">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-32"
+           id="switch23">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-32"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 92px; height: 1px; padding-top: 128px; margin-left: 11px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 14.6667px; font-family: &quot;aptos&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.0700021136315598; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                  <xhtml:font
+                     face="aptos, sans-serif">
+                    <xhtml:span
+                       style="font-size: 14.6667px">Ambiente</xhtml:span>
+                  </xhtml:font>
+                </xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg23">
+            <defs
+               id="defs23">
+              <path
+                 id="EGgMnQmBQenOnwIx"
+                 d="M26.024999618530273,135.16251220703126 h61.95000076293945" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="14.6667px"
+               font-family="aptos, sans-serif"
+               font-weight="400"
+               id="text23"><textPath
+                 xlink:href="#EGgMnQmBQenOnwIx"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath23"><tspan
+                   xml:space="preserve"
+                   id="tspan23">Ambiente</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g26">
+      <rect
+         cell-id="32nQJb8aB2A52hpl7Cy5-38"
+         x="597"
+         y="182"
+         width="103"
+         height="56"
+         fill="#ffffff"
+         stroke="#000000"
+         pointer-events="all"
+         id="rect25" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g28">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-38"
+         transform="translate(-0.5 -0.5)"
+         id="g27">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-38"
+           id="switch26">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-38"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 101px; height: 1px; padding-top: 210px; margin-left: 598px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Admin</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg26">
+            <defs
+               id="defs26">
+              <path
+                 id="cGgMnQmBQenOnwIy"
+                 d="M631.4874877929688,215.39998779296874 h34.025001525878906" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="12px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text26"><textPath
+                 xlink:href="#cGgMnQmBQenOnwIy"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath26"><tspan
+                   xml:space="preserve"
+                   id="tspan26">Admin</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g29">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-39"
+         d="M 527 25 Q 517 25 517 132.5 Q 517 240 527 240"
+         fill="none"
+         stroke="#cc0000"
+         stroke-width="2"
+         stroke-miterlimit="10"
+         stroke-dasharray="6 6"
+         pointer-events="stroke"
+         id="path28" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g31">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-40"
+         transform="translate(-0.5 -0.5)"
+         id="g30">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-40"
+           id="switch29">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-40"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 16px; margin-left: 528px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">User / Gateway boundary</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg29">
+            <defs
+               id="defs29">
+              <path
+                 id="SGgMnQmBQenOnwIz"
+                 d="M466.13751220703125,21.29996337890625 h124.73750305175781" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text29"><textPath
+                 xlink:href="#SGgMnQmBQenOnwIz"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath29"><tspan
+                   xml:space="preserve"
+                   id="tspan29">User / Gateway boundary</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g33">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-44"
+         transform="translate(-0.5 -0.5)"
+         id="g32">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-44"
+           id="switch31">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-44"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 26px; margin-left: 346px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">Microcontrolador/ Gateway boundary</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg31">
+            <defs
+               id="defs31">
+              <path
+                 id="aGgMnQmBQenOnwI0"
+                 d="M256.3125,31.29996337890625 h180.375" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text31"><textPath
+                 xlink:href="#aGgMnQmBQenOnwI0"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath31"><tspan
+                   xml:space="preserve"
+                   id="tspan31">Microcontrolador/ Gateway boundary</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g35">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-45"
+         transform="translate(-0.5 -0.5)"
+         id="g34">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-45"
+           id="switch33">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-45"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 26px; margin-left: 139px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">Ambiente/ Microcontrolador boundary</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg33">
+            <defs
+               id="defs33">
+              <path
+                 id="mGgMnQmBQenOnwI1"
+                 d="M47.78750228881836,31.29996337890625 h183.4375" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text33"><textPath
+                 xlink:href="#mGgMnQmBQenOnwI1"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath33"><tspan
+                   xml:space="preserve"
+                   id="tspan33">Ambiente/ Microcontrolador boundary</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g36">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-1"
+         d="M 297 129.25 L 382.13 129.02"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path35" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-1"
+         d="M 388.88 129 L 379.89 133.53 L 382.13 129.02 L 379.87 124.53 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path36" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g38">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-2"
+         transform="translate(-0.5 -0.5)"
+         id="g37">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-2"
+           id="switch36">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-2"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 119px; margin-left: 335px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">LoRa / MQTT</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg36">
+            <defs
+               id="defs36">
+              <path
+                 id="2GgMnQmBQenOnwI2"
+                 d="M302.1875,124.29996337890626 h66.625" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text36"><textPath
+                 xlink:href="#2GgMnQmBQenOnwI2"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath36"><tspan
+                   xml:space="preserve"
+                   id="tspan36">LoRa / MQTT</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g39">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-4"
+         d="M 355 47 Q 378 47 378 141 Q 378 235 355 235"
+         fill="none"
+         stroke="#cc0000"
+         stroke-width="2"
+         stroke-miterlimit="10"
+         stroke-dasharray="6 6"
+         pointer-events="stroke"
+         id="path38" />
+    </g>
+    <g
+       shape-node=""
+       id="g40">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-95"
+         d="M 440 79.5 L 440 65 Q 440 55 450 55 L 590.63 55"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path39" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-95"
+         d="M 595.88 55 L 588.88 58.5 L 590.63 55 L 588.88 51.5 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path40" />
+    </g>
+    <g
+       shape-node=""
+       id="g42">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-96"
+         d="M 440 179.5 L 440 200 Q 440 210 450 210 L 590.63 210"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path41" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-96"
+         d="M 595.88 210 L 588.88 213.5 L 590.63 210 L 588.88 206.5 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path42" />
+    </g>
+    <g
+       shape-node=""
+       id="g43">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-21"
+         d="M 126 35 Q 149 35 149 129 Q 149 223 126 223"
+         fill="none"
+         stroke="#cc0000"
+         stroke-width="2"
+         stroke-miterlimit="10"
+         stroke-dasharray="6 6"
+         pointer-events="stroke"
+         id="path43" />
+    </g>
+    <g
+       shape-node=""
+       id="g45">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-91"
+         d="M 104 129 L 190.63 129"
+         fill="none"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="stroke"
+         id="path44" />
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-91"
+         d="M 195.88 129 L 188.88 132.5 L 190.63 129 L 188.88 125.5 Z"
+         fill="#000000"
+         stroke="#000000"
+         stroke-miterlimit="10"
+         pointer-events="all"
+         id="path45" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g47">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-92"
+         transform="translate(-0.5 -0.5)"
+         id="g46">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-92"
+           id="switch45">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-92"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 120px; margin-left: 125px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">Data</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg45">
+            <defs
+               id="defs45">
+              <path
+                 id="eGgMnQmBQenOnwI3"
+                 d="M113.88750457763672,125.29996337890626 h23.23750114440918" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text45"><textPath
+                 xlink:href="#eGgMnQmBQenOnwI3"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath45"><tspan
+                   xml:space="preserve"
+                   id="tspan45">Data</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+    <g
+       shape-node=""
+       id="g48">
+      <path
+         cell-id="32nQJb8aB2A52hpl7Cy5-39"
+         d="M 527 25 Q 517 25 517 132.5 Q 517 240 527 240"
+         fill="none"
+         stroke="#cc0000"
+         stroke-width="2"
+         stroke-miterlimit="10"
+         stroke-dasharray="6 6"
+         pointer-events="stroke"
+         id="path47" />
+    </g>
+    <g
+       shape-node=""
+       text-node=""
+       id="g50">
+      <g
+         cell-id="32nQJb8aB2A52hpl7Cy5-40"
+         transform="translate(-0.5 -0.5)"
+         id="g49">
+        <switch
+           cell-id="32nQJb8aB2A52hpl7Cy5-40"
+           id="switch48">
+          <foreignObject
+             cell-id="32nQJb8aB2A52hpl7Cy5-40"
+             style="overflow: visible; text-align: left;"
+             pointer-events="none"
+             width="100%"
+             height="100%"
+             requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+            <xhtml:div
+               style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 16px; margin-left: 528px;">
+              <xhtml:div
+                 style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                <xhtml:div
+                   ani=""
+                   style="display: inline-block; font-size: 11px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">User / Gateway boundary</xhtml:div>
+              </xhtml:div>
+            </xhtml:div>
+          </foreignObject>
+          <svg
+             width="100%"
+             height="100%"
+             version="1.1"
+             id="svg48">
+            <defs
+               id="defs48">
+              <path
+                 id="hGgMnQmBQenOnwI4"
+                 d="M466.13751220703125,21.29996337890625 h124.73750305175781" />
+            </defs>
+            <text
+               fill="rgb(0, 0, 0)"
+               font-size="11px"
+               font-family="Helvetica, &quot;VP Default&quot;"
+               font-weight="400"
+               id="text48"><textPath
+                 xlink:href="#hGgMnQmBQenOnwI4"
+                 startOffset="50%"
+                 text-anchor="middle"
+                 id="textPath48"><tspan
+                   xml:space="preserve"
+                   id="tspan48">User / Gateway boundary</tspan></textPath></text>
+          </svg>
+        </switch>
+      </g>
+    </g>
+  </g>
+  <switch
+     id="switch52">
+    <g
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+       id="g52" />
+    <a
+       transform="translate(0,-5)"
+       id="a52">
+      <text
+         text-anchor="middle"
+         font-size="10px"
+         x="50%"
+         y="100%"
+         id="text52" />
+    </a>
+  </switch>
+</svg>
