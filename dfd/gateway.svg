@@ -1,1521 +1,632 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   version="1.1"
-   id="svg100"
-   x="0px"
-   y="0px"
-   viewBox="0 0 709 619"
-   style="enable-background:new 0 0 709 619;"
-   xml:space="preserve"
-   sodipodi:docname="gateway (2).svg"
-   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs349" />&#10;<style
-   type="text/css"
-   id="style1">&#10;	.st0{fill:none;}&#10;	.st1{fill:none;stroke:#CC0000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6,6;}&#10;	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}&#10;	.st3{stroke:#000000;stroke-miterlimit:10;}&#10;	.st4{font-family:'ArialMT';}&#10;	.st5{font-size:11px;}&#10;	.st6{fill:#FFFFFF;stroke:#000000;}&#10;	.st7{fill:none;stroke:#000000;}&#10;	.st8{font-size:12px;}&#10;</style>&#10;<path
-   class="st0"
-   d="z"
-   id="path1" />&#10;<sodipodi:namedview
-   bordercolor="#000000"
-   borderopacity="0.25"
-   id="namedview106"
-   inkscape:current-layer="svg100"
-   inkscape:cx="373.07861"
-   inkscape:cy="231.47946"
-   inkscape:deskcolor="#d1d1d1"
-   inkscape:pagecheckerboard="0"
-   inkscape:pageopacity="0.0"
-   inkscape:showpageshadow="2"
-   inkscape:window-height="1017"
-   inkscape:window-maximized="1"
-   inkscape:window-width="1920"
-   inkscape:window-x="1072"
-   inkscape:window-y="1028"
-   inkscape:zoom="0.9957687"
-   pagecolor="#ffffff">&#10;	</sodipodi:namedview>&#10;<g
-   id="g105">&#10;	<g
-   id="g2">&#10;		<path
-   id="path2"
-   pointer-events="stroke"
-   class="st1"
-   d="M122.5,165.5c15.4,0,23.1,31.4,23.1,94.1s-7.7,94-23.1,93.9" />&#10;	</g>&#10;	<g
-   id="g4">&#10;		<path
-   id="path3"
-   pointer-events="stroke"
-   class="st2"
-   d="M199.6,285.4v192.2c0,6.7,2.9,10,8.8,10h8.8" />&#10;		<path
-   id="path4"
-   pointer-events="all"
-   class="st3"
-   d="M222.4,487.6l-7,3.5l1.8-3.5l-1.8-3.5L222.4,487.6z" />&#10;	</g>&#10;	<g
-   id="g6">&#10;		<g
-   id="g5"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 114.7366 443.8)"
-   class="st4 st5"
-   id="text1">S</text>&#10;			<text
-   transform="matrix(1 0 0 1 122.0735 443.8)"
-   class="st4 st5"
-   id="text2">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 130.6296 443.8)"
-   class="st4 st5"
-   id="text3">L</text>&#10;			<text
-   transform="matrix(1 0 0 1 136.7473 443.8)"
-   class="st4 st5"
-   id="text4"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 139.8035 443.8)"
-   class="st4 st5"
-   id="text5">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 148.3596 443.8)"
-   class="st4 st5"
-   id="text6">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 154.4773 443.8)"
-   class="st4 st5"
-   id="text7">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 160.595 443.8)"
-   class="st4 st5"
-   id="text8">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 164.2581 443.8)"
-   class="st4 st5"
-   id="text9">y</text>&#10;			<text
-   transform="matrix(1 0 0 1 169.7581 443.8)"
-   class="st4 st5"
-   id="text10"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 172.8142 443.8)"
-   class="st4 st5"
-   id="text11">C</text>&#10;			<text
-   transform="matrix(1 0 0 1 180.7581 443.8)"
-   class="st4 st5"
-   id="text12">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 186.8757 443.8)"
-   class="st4 st5"
-   id="text13">l</text>&#10;			<text
-   transform="matrix(1 0 0 1 189.3196 443.8)"
-   class="st4 st5"
-   id="text14">l</text>&#10;			<text
-   id="text15"
-   transform="matrix(1 0 0 1 191.7634 443.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g7">&#10;		<ellipse
-   id="ellipse6"
-   pointer-events="all"
-   class="st6"
-   cx="238.5"
-   cy="254"
-   rx="50"
-   ry="50" />&#10;		<ellipse
-   id="ellipse7"
-   pointer-events="all"
-   class="st7"
-   cx="238.5"
-   cy="254"
-   rx="46"
-   ry="46" />&#10;	</g>&#10;	<g
-   id="g10">&#10;		<path
-   id="path9"
-   pointer-events="stroke"
-   class="st1"
-   d="M323.5,386.5c0-3.3,26.6-4.9,79.5-4.9c53,0,79.5,1.6,79.5,4.9" />&#10;	</g>&#10;	<g
-   id="g11">&#10;		<path
-   id="path10"
-   pointer-events="stroke"
-   class="st2"
-   d="M380.5,275.8v173.5c0,6.7-3.3,10-10,10h-47.8" />&#10;		<path
-   id="path11"
-   pointer-events="all"
-   class="st3"
-   d="M317.5,459.3l7-3.5l-1.8,3.5l1.8,3.5L317.5,459.3z" />&#10;	</g>&#10;	<g
-   id="g13">&#10;		<g
-   id="g12"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 294.7366 337.8)"
-   class="st4 st5"
-   id="text16">S</text>&#10;			<text
-   transform="matrix(1 0 0 1 302.0735 337.8)"
-   class="st4 st5"
-   id="text17">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 310.6296 337.8)"
-   class="st4 st5"
-   id="text18">L</text>&#10;			<text
-   transform="matrix(1 0 0 1 316.7473 337.8)"
-   class="st4 st5"
-   id="text19"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 319.8035 337.8)"
-   class="st4 st5"
-   id="text20">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 328.3596 337.8)"
-   class="st4 st5"
-   id="text21">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 334.4773 337.8)"
-   class="st4 st5"
-   id="text22">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 340.595 337.8)"
-   class="st4 st5"
-   id="text23">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 344.2581 337.8)"
-   class="st4 st5"
-   id="text24">y</text>&#10;			<text
-   transform="matrix(1 0 0 1 349.7581 337.8)"
-   class="st4 st5"
-   id="text25"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 352.8142 337.8)"
-   class="st4 st5"
-   id="text26">C</text>&#10;			<text
-   transform="matrix(1 0 0 1 360.7581 337.8)"
-   class="st4 st5"
-   id="text27">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 366.8757 337.8)"
-   class="st4 st5"
-   id="text28">l</text>&#10;			<text
-   transform="matrix(1 0 0 1 369.3196 337.8)"
-   class="st4 st5"
-   id="text29">l</text>&#10;			<text
-   id="text30"
-   transform="matrix(1 0 0 1 371.7634 337.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g14">&#10;		<path
-   id="path13"
-   pointer-events="stroke"
-   class="st2"
-   d="M398.5,204V47.4c0-6.7-3.3-10-10-10h-33.9c-6.7,0-10,0.5-10,1.5v1.5" />&#10;		<path
-   id="path14"
-   pointer-events="all"
-   class="st3"
-   d="M398.5,210.8l-4.5-9l4.5,2.3l4.5-2.3L398.5,210.8z" />&#10;	</g>&#10;	<g
-   id="g16">&#10;		<g
-   id="g15"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 408.405 113.8)"
-   class="st4 st5"
-   id="text31">P</text>&#10;			<text
-   transform="matrix(1 0 0 1 415.7419 113.8)"
-   class="st4 st5"
-   id="text32">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 421.8596 113.8)"
-   class="st4 st5"
-   id="text33">g</text>&#10;			<text
-   transform="matrix(1 0 0 1 427.9773 113.8)"
-   class="st4 st5"
-   id="text34">e</text>&#10;			<text
-   id="text35"
-   transform="matrix(1 0 0 1 434.095 113.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g17">&#10;		<path
-   id="path16"
-   pointer-events="stroke"
-   class="st2"
-   d="M474.8,262.5H624c6.7,0,10-1.4,10-4.1v-4.1" />&#10;		<path
-   id="path17"
-   pointer-events="all"
-   class="st3"
-   d="M634,247.5l4.5,9l-4.5-2.3l-4.5,2.3L634,247.5z" />&#10;	</g>&#10;	<g
-   id="g19">&#10;		<g
-   id="g18"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 524.2401 258.7999)"
-   class="st4 st5"
-   id="text36">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 532.184 258.7999)"
-   class="st4 st5"
-   id="text37">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 538.3016 258.7999)"
-   class="st4 st5"
-   id="text38">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 543.8016 258.7999)"
-   class="st4 st5"
-   id="text39">p</text>&#10;			<text
-   transform="matrix(1 0 0 1 549.9193 258.7999)"
-   class="st4 st5"
-   id="text40">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 556.037 258.7999)"
-   class="st4 st5"
-   id="text41">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 562.1547 258.7999)"
-   class="st4 st5"
-   id="text42">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 567.6547 258.7999)"
-   class="st4 st5"
-   id="text43">e</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g20">&#10;		<path
-   id="path19"
-   pointer-events="stroke"
-   class="st2"
-   d="M472.7,270.5h157.2c6.7,0,10,3.3,10,10v13.3" />&#10;		<path
-   id="path20"
-   pointer-events="all"
-   class="st3"
-   d="M639.9,300.6l-4.5-9l4.5,2.3l4.5-2.3L639.9,300.6z" />&#10;	</g>&#10;	<g
-   id="g22">&#10;		<g
-   id="g21"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 525.2401 284.7999)"
-   class="st4 st5"
-   id="text44">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 533.184 284.7999)"
-   class="st4 st5"
-   id="text45">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 539.3016 284.7999)"
-   class="st4 st5"
-   id="text46">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 544.8016 284.7999)"
-   class="st4 st5"
-   id="text47">p</text>&#10;			<text
-   transform="matrix(1 0 0 1 550.9193 284.7999)"
-   class="st4 st5"
-   id="text48">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 557.037 284.7999)"
-   class="st4 st5"
-   id="text49">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 563.1547 284.7999)"
-   class="st4 st5"
-   id="text50">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 568.6547 284.7999)"
-   class="st4 st5"
-   id="text51">e</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g23">&#10;		<ellipse
-   id="ellipse22"
-   pointer-events="all"
-   class="st6"
-   cx="425.5"
-   cy="254"
-   rx="50"
-   ry="50" />&#10;		<ellipse
-   id="ellipse23"
-   pointer-events="all"
-   class="st7"
-   cx="425.5"
-   cy="254"
-   rx="46"
-   ry="46" />&#10;	</g>&#10;	<g
-   id="g26">&#10;		<path
-   id="path25"
-   pointer-events="stroke"
-   class="st2"
-   d="M636.4,188.7v-8.6c0-5.7-3.3-8.6-10-8.6H471.1c-6.7,0-10,3.3-10,10v28.7    " />&#10;		<path
-   id="path26"
-   pointer-events="all"
-   class="st3"
-   d="M461.1,217l-4.5-9l4.5,2.3l4.5-2.3L461.1,217z" />&#10;	</g>&#10;	<g
-   id="g28">&#10;		<g
-   id="g27"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 521.7058 193.7999)"
-   class="st4 st5"
-   id="text52">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 529.6497 193.7999)"
-   class="st4 st5"
-   id="text53">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 535.7673 193.7999)"
-   class="st4 st5"
-   id="text54">q</text>&#10;			<text
-   transform="matrix(1 0 0 1 541.885 193.7999)"
-   class="st4 st5"
-   id="text55">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 548.0027 193.7999)"
-   class="st4 st5"
-   id="text56">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 554.1204 193.7999)"
-   class="st4 st5"
-   id="text57">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 559.6204 193.7999)"
-   class="st4 st5"
-   id="text58">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 562.6765 193.7999)"
-   class="st4 st5"
-   id="text59">e</text>&#10;			<text
-   id="text60"
-   transform="matrix(1 0 0 1 568.7942 193.7999)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g29">&#10;		<rect
-   id="rect28"
-   x="582.5"
-   y="187.5"
-   pointer-events="all"
-   class="st6"
-   width="103"
-   height="56" />&#10;	</g>&#10;	<g
-   id="g31">&#10;		<g
-   id="g30"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 621.3258 220.9)"
-   class="st4 st8"
-   id="text61">U</text>&#10;			<text
-   transform="matrix(1 0 0 1 629.9918 220.9)"
-   class="st4 st8"
-   id="text62">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 635.9918 220.9)"
-   class="st4 st8"
-   id="text63">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 642.6656 220.9)"
-   class="st4 st8"
-   id="text64">r</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g32">&#10;		<path
-   id="path31"
-   pointer-events="stroke"
-   class="st2"
-   d="M268.5,537.3v42.2c0,6.7,3.3,10,10,10h259.7c6.7,0,10-3.3,10-10v-34.9" />&#10;		<path
-   id="path32"
-   pointer-events="all"
-   class="st3"
-   d="M548.2,539.3l3.5,7l-3.5-1.8l-3.5,1.8L548.2,539.3z" />&#10;	</g>&#10;	<g
-   id="g34">&#10;		<g
-   id="g33"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 383.3886 609.8)"
-   class="st4 st5"
-   id="text65">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 391.3324 609.8)"
-   class="st4 st5"
-   id="text66">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 397.4501 609.8)"
-   class="st4 st5"
-   id="text67">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 400.5063 609.8)"
-   class="st4 st5"
-   id="text68">a</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g35">&#10;		<path
-   id="path34"
-   pointer-events="stroke"
-   class="st2"
-   d="M323.5,487.6h92.1c6.7,0,10-3.3,10-10l-0.1-167.2" />&#10;		<path
-   id="path35"
-   pointer-events="all"
-   class="st3"
-   d="M425.5,305.1l3.5,7l-3.5-1.8l-3.5,1.8L425.5,305.1z" />&#10;	</g>&#10;	<g
-   id="g37">&#10;		<g
-   id="g36"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 440.3886 463.8)"
-   class="st4 st5"
-   id="text69">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 448.3324 463.8)"
-   class="st4 st5"
-   id="text70">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 454.4501 463.8)"
-   class="st4 st5"
-   id="text71">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 457.5063 463.8)"
-   class="st4 st5"
-   id="text72">a</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g38">&#10;		<ellipse
-   id="ellipse37"
-   pointer-events="all"
-   class="st6"
-   cx="273.5"
-   cy="487.5"
-   rx="50"
-   ry="50" />&#10;		<ellipse
-   id="ellipse38"
-   pointer-events="all"
-   class="st7"
-   cx="273.5"
-   cy="487.5"
-   rx="46"
-   ry="46" />&#10;	</g>&#10;	<g
-   id="g40">&#10;		<g
-   id="g39"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 239.4776 492.9001)"
-   class="st4 st8"
-   id="text73">I</text>&#10;			<text
-   transform="matrix(1 0 0 1 242.8115 492.9001)"
-   class="st4 st8"
-   id="text74">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 249.4854 492.9001)"
-   class="st4 st8"
-   id="text75">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 252.8194 492.9001)"
-   class="st4 st8"
-   id="text76"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 256.1533 492.9001)"
-   class="st4 st8"
-   id="text77">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 264.8193 492.9001)"
-   class="st4 st8"
-   id="text78">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 271.4932 492.9001)"
-   class="st4 st8"
-   id="text79">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 274.8271 492.9001)"
-   class="st4 st8"
-   id="text80">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 281.501 492.9001)"
-   class="st4 st8"
-   id="text81">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 288.1748 492.9001)"
-   class="st4 st8"
-   id="text82">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 294.8486 492.9001)"
-   class="st4 st8"
-   id="text83">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 300.8486 492.9001)"
-   class="st4 st8"
-   id="text84">e</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g41">&#10;		<path
-   id="path40"
-   pointer-events="stroke"
-   class="st2"
-   d="M500,512.3H329.8" />&#10;		<path
-   id="path41"
-   pointer-events="all"
-   class="st3"
-   d="M324.6,512.3l7-3.5l-1.8,3.5l1.8,3.5L324.6,512.3z" />&#10;	</g>&#10;	<g
-   id="g43">&#10;		<g
-   id="g42"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 385.3886 531.8)"
-   class="st4 st5"
-   id="text85">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 393.3324 531.8)"
-   class="st4 st5"
-   id="text86">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 399.4501 531.8)"
-   class="st4 st5"
-   id="text87">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 402.5063 531.8)"
-   class="st4 st5"
-   id="text88">a</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g44">&#10;		<rect
-   id="rect43"
-   x="500"
-   y="474.5"
-   pointer-events="all"
-   class="st0"
-   width="96.5"
-   height="63" />&#10;		<path
-   id="path43"
-   pointer-events="all"
-   class="st2"
-   d="M500,474.5h96.5 M596.5,537.5H500" />&#10;	</g>&#10;	<g
-   id="g46">&#10;		<g
-   id="g45"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 511.4805 511.9001)"
-   class="st4 st8"
-   id="text89">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 520.1465 511.9001)"
-   class="st4 st8"
-   id="text90">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 526.8203 511.9001)"
-   class="st4 st8"
-   id="text91">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 530.1543 511.9001)"
-   class="st4 st8"
-   id="text92">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 536.8281 511.9001)"
-   class="st4 st8"
-   id="text93">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 543.502 511.9001)"
-   class="st4 st8"
-   id="text94">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 550.1758 511.9001)"
-   class="st4 st8"
-   id="text95">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 556.1758 511.9001)"
-   class="st4 st8"
-   id="text96">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 562.8496 511.9001)"
-   class="st4 st8"
-   id="text97"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 566.1836 511.9001)"
-   class="st4 st8"
-   id="text98">F</text>&#10;			<text
-   transform="matrix(1 0 0 1 573.5137 511.9001)"
-   class="st4 st8"
-   id="text99">i</text>&#10;			<text
-   transform="matrix(1 0 0 1 576.1797 511.9001)"
-   class="st4 st8"
-   id="text100">l</text>&#10;			<text
-   id="text101"
-   transform="matrix(1 0 0 1 578.8457 511.9001)"
-   class="st4 st8">e</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g47">&#10;		<rect
-   id="rect46"
-   x="256.5"
-   y="12.5"
-   pointer-events="all"
-   class="st0"
-   width="88.5"
-   height="49" />&#10;		<path
-   id="path46"
-   pointer-events="all"
-   class="st2"
-   d="M256.5,12.5H345 M345,61.5h-88.5" />&#10;	</g>&#10;	<g
-   id="g49">&#10;		<g
-   id="g48"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 257.5 35.6999)"
-   class="st4 st8"
-   id="text102">W</text>&#10;			<text
-   transform="matrix(1 0 0 1 268.8262 35.6999)"
-   class="st4 st8"
-   id="text103">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 275.5 35.6999)"
-   class="st4 st8"
-   id="text104">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 282.1738 35.6999)"
-   class="st4 st8"
-   id="text105"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 285.5078 35.6999)"
-   class="st4 st8"
-   id="text106">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 291.5078 35.6999)"
-   class="st4 st8"
-   id="text107">i</text>&#10;			<text
-   transform="matrix(1 0 0 1 294.1738 35.6999)"
-   class="st4 st8"
-   id="text108">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 297.5078 35.6999)"
-   class="st4 st8"
-   id="text109">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 304.1816 35.6999)"
-   class="st4 st8"
-   id="text110"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 307.5156 35.6999)"
-   class="st4 st8"
-   id="text111">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 314.1895 35.6999)"
-   class="st4 st8"
-   id="text112">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 320.8633 35.6999)"
-   class="st4 st8"
-   id="text113"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 324.1973 35.6999)"
-   class="st4 st8"
-   id="text114">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 330.8711 35.6999)"
-   class="st4 st8"
-   id="text115">i</text>&#10;			<text
-   transform="matrix(1 0 0 1 333.5371 35.6999)"
-   class="st4 st8"
-   id="text116">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 339.5371 35.6999)"
-   class="st4 st8"
-   id="text117">k</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g50">&#10;		<path
-   id="path49"
-   pointer-events="stroke"
-   class="st2"
-   d="M596.5,331.6H471.1c-6.7,0-10-3.3-10-10v-23.8" />&#10;		<path
-   id="path50"
-   pointer-events="all"
-   class="st3"
-   d="M461.1,291l4.5,9l-4.5-2.3l-4.5,2.3L461.1,291z" />&#10;	</g>&#10;	<g
-   id="g52">&#10;		<g
-   id="g51"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 523.7058 323.8)"
-   class="st4 st5"
-   id="text118">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 531.6497 323.8)"
-   class="st4 st5"
-   id="text119">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 537.7673 323.8)"
-   class="st4 st5"
-   id="text120">q</text>&#10;			<text
-   transform="matrix(1 0 0 1 543.885 323.8)"
-   class="st4 st5"
-   id="text121">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 550.0027 323.8)"
-   class="st4 st5"
-   id="text122">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 556.1204 323.8)"
-   class="st4 st5"
-   id="text123">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 561.6204 323.8)"
-   class="st4 st5"
-   id="text124">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 564.6765 323.8)"
-   class="st4 st5"
-   id="text125">e</text>&#10;			<text
-   id="text126"
-   transform="matrix(1 0 0 1 570.7942 323.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g53">&#10;		<rect
-   id="rect52"
-   x="596.5"
-   y="303.5"
-   pointer-events="all"
-   class="st6"
-   width="103"
-   height="56" />&#10;	</g>&#10;	<g
-   id="g55">&#10;		<g
-   id="g54"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 630.9932 336.9001)"
-   class="st4 st8"
-   id="text127">A</text>&#10;			<text
-   transform="matrix(1 0 0 1 638.9971 336.9001)"
-   class="st4 st8"
-   id="text128">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 645.6709 336.9001)"
-   class="st4 st8"
-   id="text129">m</text>&#10;			<text
-   transform="matrix(1 0 0 1 655.667 336.9001)"
-   class="st4 st8"
-   id="text130">i</text>&#10;			<text
-   id="text131"
-   transform="matrix(1 0 0 1 658.333 336.9001)"
-   class="st4 st8">n</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g56">&#10;		<path
-   id="path55"
-   pointer-events="stroke"
-   class="st1"
-   d="M526.5,146.5c-12.6,0-18.9,35.8-18.9,107.5c0,71.7,6.3,107.5,18.9,107.5    " />&#10;	</g>&#10;	<g
-   id="g58">&#10;		<g
-   id="g57"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 515.2294 143.7999)"
-   class="st4 st5"
-   id="text132">U</text>&#10;			<text
-   transform="matrix(1 0 0 1 523.1732 143.7999)"
-   class="st4 st5"
-   id="text133">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 528.6732 143.7999)"
-   class="st4 st5"
-   id="text134">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 534.7909 143.7999)"
-   class="st4 st5"
-   id="text135">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 538.454 143.7999)"
-   class="st4 st5"
-   id="text136"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 541.5101 143.7999)"
-   class="st4 st5"
-   id="text137">/</text>&#10;			<text
-   transform="matrix(1 0 0 1 544.5663 143.7999)"
-   class="st4 st5"
-   id="text138"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 547.6224 143.7999)"
-   class="st4 st5"
-   id="text139">W</text>&#10;			<text
-   transform="matrix(1 0 0 1 558.0048 143.7999)"
-   class="st4 st5"
-   id="text140">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 564.1224 143.7999)"
-   class="st4 st5"
-   id="text141">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 570.2401 143.7999)"
-   class="st4 st5"
-   id="text142"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 573.2963 143.7999)"
-   class="st4 st5"
-   id="text143">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 578.7963 143.7999)"
-   class="st4 st5"
-   id="text144">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 584.9139 143.7999)"
-   class="st4 st5"
-   id="text145">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 588.577 143.7999)"
-   class="st4 st5"
-   id="text146">v</text>&#10;			<text
-   transform="matrix(1 0 0 1 594.077 143.7999)"
-   class="st4 st5"
-   id="text147">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 600.1947 143.7999)"
-   class="st4 st5"
-   id="text148">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 603.8578 143.7999)"
-   class="st4 st5"
-   id="text149"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 606.9139 143.7999)"
-   class="st4 st5"
-   id="text150">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 613.0316 143.7999)"
-   class="st4 st5"
-   id="text151">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 619.1493 143.7999)"
-   class="st4 st5"
-   id="text152">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 625.267 143.7999)"
-   class="st4 st5"
-   id="text153">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 631.3846 143.7999)"
-   class="st4 st5"
-   id="text154">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 637.5023 143.7999)"
-   class="st4 st5"
-   id="text155">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 643.62 143.7999)"
-   class="st4 st5"
-   id="text156">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 647.2831 143.7999)"
-   class="st4 st5"
-   id="text157">y</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g60">&#10;		<g
-   id="g59"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 494.2913 401.8)"
-   class="st4 st5"
-   id="text158">W</text>&#10;			<text
-   transform="matrix(1 0 0 1 504.6736 401.8)"
-   class="st4 st5"
-   id="text159">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 510.7913 401.8)"
-   class="st4 st5"
-   id="text160">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 516.9089 401.8)"
-   class="st4 st5"
-   id="text161"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 519.9651 401.8)"
-   class="st4 st5"
-   id="text162">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 525.4651 401.8)"
-   class="st4 st5"
-   id="text163">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 531.5828 401.8)"
-   class="st4 st5"
-   id="text164">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 535.2458 401.8)"
-   class="st4 st5"
-   id="text165">v</text>&#10;			<text
-   transform="matrix(1 0 0 1 540.7458 401.8)"
-   class="st4 st5"
-   id="text166">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 546.8635 401.8)"
-   class="st4 st5"
-   id="text167">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 550.5266 401.8)"
-   class="st4 st5"
-   id="text168"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 553.5828 401.8)"
-   class="st4 st5"
-   id="text169">/</text>&#10;			<text
-   transform="matrix(1 0 0 1 556.6389 401.8)"
-   class="st4 st5"
-   id="text170"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 559.6951 401.8)"
-   class="st4 st5"
-   id="text171">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 567.639 401.8)"
-   class="st4 st5"
-   id="text172">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 573.7566 401.8)"
-   class="st4 st5"
-   id="text173">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 576.8127 401.8)"
-   class="st4 st5"
-   id="text174">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 582.9304 401.8)"
-   class="st4 st5"
-   id="text175">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 589.0481 401.8)"
-   class="st4 st5"
-   id="text176">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 595.1658 401.8)"
-   class="st4 st5"
-   id="text177">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 600.6658 401.8)"
-   class="st4 st5"
-   id="text178">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 606.7835 401.8)"
-   class="st4 st5"
-   id="text179"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 609.8396 401.8)"
-   class="st4 st5"
-   id="text180">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 615.9573 401.8)"
-   class="st4 st5"
-   id="text181">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 622.075 401.8)"
-   class="st4 st5"
-   id="text182">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 628.1926 401.8)"
-   class="st4 st5"
-   id="text183">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 634.3103 401.8)"
-   class="st4 st5"
-   id="text184">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 640.428 401.8)"
-   class="st4 st5"
-   id="text185">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 646.5457 401.8)"
-   class="st4 st5"
-   id="text186">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 650.2087 401.8)"
-   class="st4 st5"
-   id="text187">y</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g61">&#10;		<path
-   id="path60"
-   pointer-events="stroke"
-   class="st1"
-   d="M108.5,398.5c0,4,30,6,90,6s90-4.7,90-14" />&#10;	</g>&#10;	<g
-   id="g63">&#10;		<g
-   id="g62"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 55.8167 155.7999)"
-   class="st4 st5"
-   id="text188">M</text>&#10;			<text
-   transform="matrix(1 0 0 1 64.9797 155.7999)"
-   class="st4 st5"
-   id="text189">i</text>&#10;			<text
-   transform="matrix(1 0 0 1 67.4236 155.7999)"
-   class="st4 st5"
-   id="text190">c</text>&#10;			<text
-   transform="matrix(1 0 0 1 72.9236 155.7999)"
-   class="st4 st5"
-   id="text191">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 76.5867 155.7999)"
-   class="st4 st5"
-   id="text192">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 82.7043 155.7999)"
-   class="st4 st5"
-   id="text193">c</text>&#10;			<text
-   transform="matrix(1 0 0 1 88.2043 155.7999)"
-   class="st4 st5"
-   id="text194">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 94.322 155.7999)"
-   class="st4 st5"
-   id="text195">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 100.4397 155.7999)"
-   class="st4 st5"
-   id="text196">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 103.4958 155.7999)"
-   class="st4 st5"
-   id="text197">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 107.1589 155.7999)"
-   class="st4 st5"
-   id="text198">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 113.2766 155.7999)"
-   class="st4 st5"
-   id="text199">l</text>&#10;			<text
-   transform="matrix(1 0 0 1 115.7205 155.7999)"
-   class="st4 st5"
-   id="text200">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 121.8381 155.7999)"
-   class="st4 st5"
-   id="text201">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 127.9558 155.7999)"
-   class="st4 st5"
-   id="text202">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 134.0735 155.7999)"
-   class="st4 st5"
-   id="text203">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 137.7366 155.7999)"
-   class="st4 st5"
-   id="text204">/</text>&#10;			<text
-   transform="matrix(1 0 0 1 140.7927 155.7999)"
-   class="st4 st5"
-   id="text205"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 143.8489 155.7999)"
-   class="st4 st5"
-   id="text206">G</text>&#10;			<text
-   transform="matrix(1 0 0 1 152.405 155.7999)"
-   class="st4 st5"
-   id="text207">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 158.5227 155.7999)"
-   class="st4 st5"
-   id="text208">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 161.5789 155.7999)"
-   class="st4 st5"
-   id="text209">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 167.6965 155.7999)"
-   class="st4 st5"
-   id="text210">w</text>&#10;			<text
-   transform="matrix(1 0 0 1 175.6404 155.7999)"
-   class="st4 st5"
-   id="text211">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 181.7581 155.7999)"
-   class="st4 st5"
-   id="text212">y</text>&#10;			<text
-   transform="matrix(1 0 0 1 187.2581 155.7999)"
-   class="st4 st5"
-   id="text213"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 190.3142 155.7999)"
-   class="st4 st5"
-   id="text214">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 196.4319 155.7999)"
-   class="st4 st5"
-   id="text215">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 202.5496 155.7999)"
-   class="st4 st5"
-   id="text216">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 208.6672 155.7999)"
-   class="st4 st5"
-   id="text217">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 214.7849 155.7999)"
-   class="st4 st5"
-   id="text218">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 220.9026 155.7999)"
-   class="st4 st5"
-   id="text219">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 227.0203 155.7999)"
-   class="st4 st5"
-   id="text220">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 230.6833 155.7999)"
-   class="st4 st5"
-   id="text221">y</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g64">&#10;		<path
-   id="path63"
-   pointer-events="stroke"
-   class="st2"
-   d="M112.5,253.5l69.3-0.1" />&#10;		<path
-   id="path64"
-   pointer-events="all"
-   class="st3"
-   d="M187,253.4l-7,3.5l1.8-3.5l-1.8-3.5L187,253.4z" />&#10;	</g>&#10;	<g
-   id="g65">&#10;		<ellipse
-   id="ellipse64"
-   pointer-events="all"
-   class="st6"
-   cx="62.5"
-   cy="253.5"
-   rx="50"
-   ry="50" />&#10;		<ellipse
-   id="ellipse65"
-   pointer-events="all"
-   class="st7"
-   cx="62.5"
-   cy="253.5"
-   rx="46"
-   ry="46" />&#10;	</g>&#10;	<g
-   id="g67">&#10;		<g
-   id="g66"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 21.54 258.7999)"
-   class="st4 st5"
-   id="text222">M</text>&#10;			<text
-   transform="matrix(1 0 0 1 30.7031 258.7999)"
-   class="st4 st5"
-   id="text223">i</text>&#10;			<text
-   transform="matrix(1 0 0 1 33.147 258.7999)"
-   class="st4 st5"
-   id="text224">c</text>&#10;			<text
-   transform="matrix(1 0 0 1 38.647 258.7999)"
-   class="st4 st5"
-   id="text225">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 42.3101 258.7999)"
-   class="st4 st5"
-   id="text226">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 48.4277 258.7999)"
-   class="st4 st5"
-   id="text227">c</text>&#10;			<text
-   transform="matrix(1 0 0 1 53.9277 258.7999)"
-   class="st4 st5"
-   id="text228">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 60.0454 258.7999)"
-   class="st4 st5"
-   id="text229">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 66.1631 258.7999)"
-   class="st4 st5"
-   id="text230">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 69.2192 258.7999)"
-   class="st4 st5"
-   id="text231">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 72.8823 258.7999)"
-   class="st4 st5"
-   id="text232">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 79 258.7999)"
-   class="st4 st5"
-   id="text233">l</text>&#10;			<text
-   transform="matrix(1 0 0 1 81.4438 258.7999)"
-   class="st4 st5"
-   id="text234">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 87.5615 258.7999)"
-   class="st4 st5"
-   id="text235">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 93.6792 258.7999)"
-   class="st4 st5"
-   id="text236">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 99.7969 258.7999)"
-   class="st4 st5"
-   id="text237">r</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g68">&#10;		<path
-   id="path67"
-   pointer-events="stroke"
-   class="st1"
-   d="M122.5,165.5c15.4,0,23.1,31.4,23.1,94.1s-7.7,94-23.1,93.9" />&#10;	</g>&#10;	<g
-   id="g69">&#10;		<path
-   id="path68"
-   pointer-events="stroke"
-   class="st2"
-   d="M199.6,285.4v192.2c0,6.7,2.9,10,8.8,10h8.8" />&#10;		<path
-   id="path69"
-   pointer-events="all"
-   class="st3"
-   d="M222.4,487.6l-7,3.5l1.8-3.5l-1.8-3.5L222.4,487.6z" />&#10;	</g>&#10;	<g
-   id="g71">&#10;		<g
-   id="g70"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 114.7366 443.8)"
-   class="st4 st5"
-   id="text238">S</text>&#10;			<text
-   transform="matrix(1 0 0 1 122.0735 443.8)"
-   class="st4 st5"
-   id="text239">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 130.6296 443.8)"
-   class="st4 st5"
-   id="text240">L</text>&#10;			<text
-   transform="matrix(1 0 0 1 136.7473 443.8)"
-   class="st4 st5"
-   id="text241"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 139.8035 443.8)"
-   class="st4 st5"
-   id="text242">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 148.3596 443.8)"
-   class="st4 st5"
-   id="text243">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 154.4773 443.8)"
-   class="st4 st5"
-   id="text244">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 160.595 443.8)"
-   class="st4 st5"
-   id="text245">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 164.2581 443.8)"
-   class="st4 st5"
-   id="text246">y</text>&#10;			<text
-   transform="matrix(1 0 0 1 169.7581 443.8)"
-   class="st4 st5"
-   id="text247"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 172.8142 443.8)"
-   class="st4 st5"
-   id="text248">C</text>&#10;			<text
-   transform="matrix(1 0 0 1 180.7581 443.8)"
-   class="st4 st5"
-   id="text249">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 186.8757 443.8)"
-   class="st4 st5"
-   id="text250">l</text>&#10;			<text
-   transform="matrix(1 0 0 1 189.3196 443.8)"
-   class="st4 st5"
-   id="text251">l</text>&#10;			<text
-   id="text252"
-   transform="matrix(1 0 0 1 191.7634 443.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g72">&#10;		<path
-   id="path71"
-   pointer-events="stroke"
-   class="st1"
-   d="M323.5,386.5c0-3.3,26.6-4.9,79.5-4.9c53,0,79.5,1.6,79.5,4.9" />&#10;	</g>&#10;	<g
-   id="g73">&#10;		<path
-   id="path72"
-   pointer-events="stroke"
-   class="st2"
-   d="M380.5,275.8v173.5c0,6.7-3.3,10-10,10h-47.8" />&#10;		<path
-   id="path73"
-   pointer-events="all"
-   class="st3"
-   d="M317.5,459.3l7-3.5l-1.8,3.5l1.8,3.5L317.5,459.3z" />&#10;	</g>&#10;	<g
-   id="g75">&#10;		<g
-   id="g74"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 294.7366 337.8)"
-   class="st4 st5"
-   id="text253">S</text>&#10;			<text
-   transform="matrix(1 0 0 1 302.0735 337.8)"
-   class="st4 st5"
-   id="text254">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 310.6296 337.8)"
-   class="st4 st5"
-   id="text255">L</text>&#10;			<text
-   transform="matrix(1 0 0 1 316.7473 337.8)"
-   class="st4 st5"
-   id="text256"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 319.8035 337.8)"
-   class="st4 st5"
-   id="text257">Q</text>&#10;			<text
-   transform="matrix(1 0 0 1 328.3596 337.8)"
-   class="st4 st5"
-   id="text258">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 334.4773 337.8)"
-   class="st4 st5"
-   id="text259">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 340.595 337.8)"
-   class="st4 st5"
-   id="text260">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 344.2581 337.8)"
-   class="st4 st5"
-   id="text261">y</text>&#10;			<text
-   transform="matrix(1 0 0 1 349.7581 337.8)"
-   class="st4 st5"
-   id="text262"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 352.8142 337.8)"
-   class="st4 st5"
-   id="text263">C</text>&#10;			<text
-   transform="matrix(1 0 0 1 360.7581 337.8)"
-   class="st4 st5"
-   id="text264">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 366.8757 337.8)"
-   class="st4 st5"
-   id="text265">l</text>&#10;			<text
-   transform="matrix(1 0 0 1 369.3196 337.8)"
-   class="st4 st5"
-   id="text266">l</text>&#10;			<text
-   id="text267"
-   transform="matrix(1 0 0 1 371.7634 337.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g76">&#10;		<path
-   id="path75"
-   pointer-events="stroke"
-   class="st2"
-   d="M398.5,204V47.4c0-6.7-3.3-10-10-10h-33.9c-6.7,0-10,0.5-10,1.5v1.5" />&#10;		<path
-   id="path76"
-   pointer-events="all"
-   class="st3"
-   d="M398.5,210.8l-4.5-9l4.5,2.3l4.5-2.3L398.5,210.8z" />&#10;	</g>&#10;	<g
-   id="g78">&#10;		<g
-   id="g77"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 408.405 113.8)"
-   class="st4 st5"
-   id="text268">P</text>&#10;			<text
-   transform="matrix(1 0 0 1 415.7419 113.8)"
-   class="st4 st5"
-   id="text269">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 421.8596 113.8)"
-   class="st4 st5"
-   id="text270">g</text>&#10;			<text
-   transform="matrix(1 0 0 1 427.9773 113.8)"
-   class="st4 st5"
-   id="text271">e</text>&#10;			<text
-   id="text272"
-   transform="matrix(1 0 0 1 434.095 113.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g79">&#10;		<path
-   id="path78"
-   pointer-events="stroke"
-   class="st2"
-   d="M474.8,262.5H624c6.7,0,10-1.4,10-4.1v-4.1" />&#10;		<path
-   id="path79"
-   pointer-events="all"
-   class="st3"
-   d="M634,247.5l4.5,9l-4.5-2.3l-4.5,2.3L634,247.5z" />&#10;	</g>&#10;	<g
-   id="g81">&#10;		<g
-   id="g80"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 524.2401 258.7999)"
-   class="st4 st5"
-   id="text273">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 532.184 258.7999)"
-   class="st4 st5"
-   id="text274">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 538.3016 258.7999)"
-   class="st4 st5"
-   id="text275">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 543.8016 258.7999)"
-   class="st4 st5"
-   id="text276">p</text>&#10;			<text
-   transform="matrix(1 0 0 1 549.9193 258.7999)"
-   class="st4 st5"
-   id="text277">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 556.037 258.7999)"
-   class="st4 st5"
-   id="text278">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 562.1547 258.7999)"
-   class="st4 st5"
-   id="text279">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 567.6547 258.7999)"
-   class="st4 st5"
-   id="text280">e</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g82">&#10;		<path
-   id="path81"
-   pointer-events="stroke"
-   class="st2"
-   d="M472.7,270.5h157.2c6.7,0,10,3.3,10,10v13.3" />&#10;		<path
-   id="path82"
-   pointer-events="all"
-   class="st3"
-   d="M639.9,300.6l-4.5-9l4.5,2.3l4.5-2.3L639.9,300.6z" />&#10;	</g>&#10;	<g
-   id="g84">&#10;		<g
-   id="g83"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 525.2401 284.7999)"
-   class="st4 st5"
-   id="text281">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 533.184 284.7999)"
-   class="st4 st5"
-   id="text282">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 539.3016 284.7999)"
-   class="st4 st5"
-   id="text283">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 544.8016 284.7999)"
-   class="st4 st5"
-   id="text284">p</text>&#10;			<text
-   transform="matrix(1 0 0 1 550.9193 284.7999)"
-   class="st4 st5"
-   id="text285">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 557.037 284.7999)"
-   class="st4 st5"
-   id="text286">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 563.1547 284.7999)"
-   class="st4 st5"
-   id="text287">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 568.6547 284.7999)"
-   class="st4 st5"
-   id="text288">e</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g85">&#10;		<path
-   id="path84"
-   pointer-events="stroke"
-   class="st2"
-   d="M636.4,188.7v-8.6c0-5.7-3.3-8.6-10-8.6H471.1c-6.7,0-10,3.3-10,10v28.7    " />&#10;		<path
-   id="path85"
-   pointer-events="all"
-   class="st3"
-   d="M461.1,217l-4.5-9l4.5,2.3l4.5-2.3L461.1,217z" />&#10;	</g>&#10;	<g
-   id="g87">&#10;		<g
-   id="g86"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 521.7058 193.7999)"
-   class="st4 st5"
-   id="text289">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 529.6497 193.7999)"
-   class="st4 st5"
-   id="text290">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 535.7673 193.7999)"
-   class="st4 st5"
-   id="text291">q</text>&#10;			<text
-   transform="matrix(1 0 0 1 541.885 193.7999)"
-   class="st4 st5"
-   id="text292">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 548.0027 193.7999)"
-   class="st4 st5"
-   id="text293">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 554.1204 193.7999)"
-   class="st4 st5"
-   id="text294">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 559.6204 193.7999)"
-   class="st4 st5"
-   id="text295">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 562.6765 193.7999)"
-   class="st4 st5"
-   id="text296">e</text>&#10;			<text
-   id="text297"
-   transform="matrix(1 0 0 1 568.7942 193.7999)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g88">&#10;		<path
-   id="path87"
-   pointer-events="stroke"
-   class="st2"
-   d="M268.5,537.3v42.2c0,6.7,3.3,10,10,10h259.7c6.7,0,10-3.3,10-10v-34.9" />&#10;		<path
-   id="path88"
-   pointer-events="all"
-   class="st3"
-   d="M548.2,539.3l3.5,7l-3.5-1.8l-3.5,1.8L548.2,539.3z" />&#10;	</g>&#10;	<g
-   id="g90">&#10;		<g
-   id="g89"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 383.3886 609.8)"
-   class="st4 st5"
-   id="text298">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 391.3324 609.8)"
-   class="st4 st5"
-   id="text299">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 397.4501 609.8)"
-   class="st4 st5"
-   id="text300">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 400.5063 609.8)"
-   class="st4 st5"
-   id="text301">a</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g91">&#10;		<path
-   id="path90"
-   pointer-events="stroke"
-   class="st2"
-   d="M323.5,487.6h92.1c6.7,0,10-3.3,10-10l-0.1-167.2" />&#10;		<path
-   id="path91"
-   pointer-events="all"
-   class="st3"
-   d="M425.5,305.1l3.5,7l-3.5-1.8l-3.5,1.8L425.5,305.1z" />&#10;	</g>&#10;	<g
-   id="g93">&#10;		<g
-   id="g92"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 440.3886 463.8)"
-   class="st4 st5"
-   id="text302">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 448.3324 463.8)"
-   class="st4 st5"
-   id="text303">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 454.4501 463.8)"
-   class="st4 st5"
-   id="text304">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 457.5063 463.8)"
-   class="st4 st5"
-   id="text305">a</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g94">&#10;		<path
-   id="path93"
-   pointer-events="stroke"
-   class="st2"
-   d="M500,512.3H329.8" />&#10;		<path
-   id="path94"
-   pointer-events="all"
-   class="st3"
-   d="M324.6,512.3l7-3.5l-1.8,3.5l1.8,3.5L324.6,512.3z" />&#10;	</g>&#10;	<g
-   id="g96">&#10;		<g
-   id="g95"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 385.3886 531.8)"
-   class="st4 st5"
-   id="text306">D</text>&#10;			<text
-   transform="matrix(1 0 0 1 393.3324 531.8)"
-   class="st4 st5"
-   id="text307">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 399.4501 531.8)"
-   class="st4 st5"
-   id="text308">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 402.5063 531.8)"
-   class="st4 st5"
-   id="text309">a</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g97">&#10;		<path
-   id="path96"
-   pointer-events="stroke"
-   class="st2"
-   d="M596.5,331.6H471.1c-6.7,0-10-3.3-10-10v-23.8" />&#10;		<path
-   id="path97"
-   pointer-events="all"
-   class="st3"
-   d="M461.1,291l4.5,9l-4.5-2.3l-4.5,2.3L461.1,291z" />&#10;	</g>&#10;	<g
-   id="g99">&#10;		<g
-   id="g98"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 523.7058 323.8)"
-   class="st4 st5"
-   id="text310">R</text>&#10;			<text
-   transform="matrix(1 0 0 1 531.6497 323.8)"
-   class="st4 st5"
-   id="text311">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 537.7673 323.8)"
-   class="st4 st5"
-   id="text312">q</text>&#10;			<text
-   transform="matrix(1 0 0 1 543.885 323.8)"
-   class="st4 st5"
-   id="text313">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 550.0027 323.8)"
-   class="st4 st5"
-   id="text314">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 556.1204 323.8)"
-   class="st4 st5"
-   id="text315">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 561.6204 323.8)"
-   class="st4 st5"
-   id="text316">t</text>&#10;			<text
-   transform="matrix(1 0 0 1 564.6765 323.8)"
-   class="st4 st5"
-   id="text317">e</text>&#10;			<text
-   id="text318"
-   transform="matrix(1 0 0 1 570.7942 323.8)"
-   class="st4 st5">s</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g100">&#10;		<path
-   id="path99"
-   pointer-events="stroke"
-   class="st1"
-   d="M526.5,146.5c-12.6,0-18.9,35.8-18.9,107.5c0,71.7,6.3,107.5,18.9,107.5    " />&#10;	</g>&#10;	<g
-   id="g102">&#10;		<g
-   id="g101"
-   transform="translate(-0.5 -0.5)">&#10;			<text
-   transform="matrix(1 0 0 1 515.2294 143.7999)"
-   class="st4 st5"
-   id="text319">U</text>&#10;			<text
-   transform="matrix(1 0 0 1 523.1732 143.7999)"
-   class="st4 st5"
-   id="text320">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 528.6732 143.7999)"
-   class="st4 st5"
-   id="text321">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 534.7909 143.7999)"
-   class="st4 st5"
-   id="text322">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 538.454 143.7999)"
-   class="st4 st5"
-   id="text323"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 541.5101 143.7999)"
-   class="st4 st5"
-   id="text324">/</text>&#10;			<text
-   transform="matrix(1 0 0 1 544.5663 143.7999)"
-   class="st4 st5"
-   id="text325"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 547.6224 143.7999)"
-   class="st4 st5"
-   id="text326">W</text>&#10;			<text
-   transform="matrix(1 0 0 1 558.0048 143.7999)"
-   class="st4 st5"
-   id="text327">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 564.1224 143.7999)"
-   class="st4 st5"
-   id="text328">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 570.2401 143.7999)"
-   class="st4 st5"
-   id="text329"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 573.2963 143.7999)"
-   class="st4 st5"
-   id="text330">s</text>&#10;			<text
-   transform="matrix(1 0 0 1 578.7963 143.7999)"
-   class="st4 st5"
-   id="text331">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 584.9139 143.7999)"
-   class="st4 st5"
-   id="text332">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 588.577 143.7999)"
-   class="st4 st5"
-   id="text333">v</text>&#10;			<text
-   transform="matrix(1 0 0 1 594.077 143.7999)"
-   class="st4 st5"
-   id="text334">e</text>&#10;			<text
-   transform="matrix(1 0 0 1 600.1947 143.7999)"
-   class="st4 st5"
-   id="text335">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 603.8578 143.7999)"
-   class="st4 st5"
-   id="text336"> </text>&#10;			<text
-   transform="matrix(1 0 0 1 606.9139 143.7999)"
-   class="st4 st5"
-   id="text337">b</text>&#10;			<text
-   transform="matrix(1 0 0 1 613.0316 143.7999)"
-   class="st4 st5"
-   id="text338">o</text>&#10;			<text
-   transform="matrix(1 0 0 1 619.1493 143.7999)"
-   class="st4 st5"
-   id="text339">u</text>&#10;			<text
-   transform="matrix(1 0 0 1 625.267 143.7999)"
-   class="st4 st5"
-   id="text340">n</text>&#10;			<text
-   transform="matrix(1 0 0 1 631.3846 143.7999)"
-   class="st4 st5"
-   id="text341">d</text>&#10;			<text
-   transform="matrix(1 0 0 1 637.5023 143.7999)"
-   class="st4 st5"
-   id="text342">a</text>&#10;			<text
-   transform="matrix(1 0 0 1 643.62 143.7999)"
-   class="st4 st5"
-   id="text343">r</text>&#10;			<text
-   transform="matrix(1 0 0 1 647.2831 143.7999)"
-   class="st4 st5"
-   id="text344">y</text>&#10;		</g>&#10;	</g>&#10;	<g
-   id="g103">&#10;		<path
-   id="path102"
-   pointer-events="stroke"
-   class="st1"
-   d="M108.5,398.5c0,4,30,6,90,6s90-4.7,90-14" />&#10;	</g>&#10;	<g
-   id="g104">&#10;		<path
-   id="path103"
-   pointer-events="stroke"
-   class="st2"
-   d="M112.5,253.5l69.3-0.1" />&#10;		<path
-   id="path104"
-   pointer-events="all"
-   class="st3"
-   d="M187,253.4l-7,3.5l1.8-3.5l-1.8-3.5L187,253.4z" />&#10;	</g>&#10;</g>&#10;<a
-   id="a106"
-   transform="translate(0,-5)">&#10;</a>&#10;<text
-   transform="matrix(1 0 0 1 392.0547 249.9592)"
-   class="st4 st8"
-   id="text345">Iot Website</text>&#10;<text
-   transform="matrix(1 0 0 1 395.6114 265.0687)"
-   class="st4 st8"
-   id="text346">/ Node JS</text>&#10;<text
-   transform="matrix(1 0 0 1 214.6999 238.9899)"
-   class="st4 st8"
-   id="text347">Gateway</text>&#10;<text
-   transform="matrix(1 0 0 1 226.3747 254.0993)"
-   class="st4 st8"
-   id="text348">/ OS</text>&#10;<text
-   transform="matrix(1 0 0 1 198.8181 269.2087)"
-   class="st4 st8"
-   id="text349">/ Broker MQTT </text>&#10;<path
-   class="st0"
-   d="z"
-   id="path349" />&#10;</svg>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="svg100" x="0px" y="0px" viewBox="0 0 709 619" style="enable-background:new 0 0 709 619;" xml:space="preserve" ns1:docname="gateway (2).svg" ns2:version="1.3 (0e150ed6c4, 2023-07-21)"><rect width="100%" height="100%" fill="white" x="0" y="0" /><ns0:defs id="defs349" />
+<ns0:style type="text/css" id="style1">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#CC0000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:6,6;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{stroke:#000000;stroke-miterlimit:10;}
+	.st4{font-family:'ArialMT';}
+	.st5{font-size:11px;}
+	.st6{fill:#FFFFFF;stroke:#000000;}
+	.st7{fill:none;stroke:#000000;}
+	.st8{font-size:12px;}
+</ns0:style>
+<ns0:path class="st0" d="z" id="path1" />
+<ns1:namedview bordercolor="#000000" borderopacity="0.25" id="namedview106" ns2:current-layer="svg100" ns2:cx="373.07861" ns2:cy="231.47946" ns2:deskcolor="#d1d1d1" ns2:pagecheckerboard="0" ns2:pageopacity="0.0" ns2:showpageshadow="2" ns2:window-height="1017" ns2:window-maximized="1" ns2:window-width="1920" ns2:window-x="1072" ns2:window-y="1028" ns2:zoom="0.9957687" pagecolor="#ffffff">
+	</ns1:namedview>
+<ns0:g id="g105">
+	<ns0:g id="g2">
+		<ns0:path id="path2" pointer-events="stroke" class="st1" d="M122.5,165.5c15.4,0,23.1,31.4,23.1,94.1s-7.7,94-23.1,93.9" />
+	</ns0:g>
+	<ns0:g id="g4">
+		<ns0:path id="path3" pointer-events="stroke" class="st2" d="M199.6,285.4v192.2c0,6.7,2.9,10,8.8,10h8.8" />
+		<ns0:path id="path4" pointer-events="all" class="st3" d="M222.4,487.6l-7,3.5l1.8-3.5l-1.8-3.5L222.4,487.6z" />
+	</ns0:g>
+	<ns0:g id="g6">
+		<ns0:g id="g5" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 114.7366 443.8)" class="st4 st5" id="text1">S</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 122.0735 443.8)" class="st4 st5" id="text2">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 130.6296 443.8)" class="st4 st5" id="text3">L</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 136.7473 443.8)" class="st4 st5" id="text4"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 139.8035 443.8)" class="st4 st5" id="text5">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 148.3596 443.8)" class="st4 st5" id="text6">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 154.4773 443.8)" class="st4 st5" id="text7">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 160.595 443.8)" class="st4 st5" id="text8">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 164.2581 443.8)" class="st4 st5" id="text9">y</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 169.7581 443.8)" class="st4 st5" id="text10"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 172.8142 443.8)" class="st4 st5" id="text11">C</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 180.7581 443.8)" class="st4 st5" id="text12">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 186.8757 443.8)" class="st4 st5" id="text13">l</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 189.3196 443.8)" class="st4 st5" id="text14">l</ns0:text>
+			<ns0:text id="text15" transform="matrix(1 0 0 1 191.7634 443.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g7">
+		<ns0:ellipse id="ellipse6" pointer-events="all" class="st6" cx="238.5" cy="254" rx="50" ry="50" />
+		<ns0:ellipse id="ellipse7" pointer-events="all" class="st7" cx="238.5" cy="254" rx="46" ry="46" />
+	</ns0:g>
+	<ns0:g id="g10">
+		<ns0:path id="path9" pointer-events="stroke" class="st1" d="M323.5,386.5c0-3.3,26.6-4.9,79.5-4.9c53,0,79.5,1.6,79.5,4.9" />
+	</ns0:g>
+	<ns0:g id="g11">
+		<ns0:path id="path10" pointer-events="stroke" class="st2" d="M380.5,275.8v173.5c0,6.7-3.3,10-10,10h-47.8" />
+		<ns0:path id="path11" pointer-events="all" class="st3" d="M317.5,459.3l7-3.5l-1.8,3.5l1.8,3.5L317.5,459.3z" />
+	</ns0:g>
+	<ns0:g id="g13">
+		<ns0:g id="g12" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 294.7366 337.8)" class="st4 st5" id="text16">S</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 302.0735 337.8)" class="st4 st5" id="text17">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 310.6296 337.8)" class="st4 st5" id="text18">L</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 316.7473 337.8)" class="st4 st5" id="text19"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 319.8035 337.8)" class="st4 st5" id="text20">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 328.3596 337.8)" class="st4 st5" id="text21">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 334.4773 337.8)" class="st4 st5" id="text22">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 340.595 337.8)" class="st4 st5" id="text23">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 344.2581 337.8)" class="st4 st5" id="text24">y</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 349.7581 337.8)" class="st4 st5" id="text25"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 352.8142 337.8)" class="st4 st5" id="text26">C</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 360.7581 337.8)" class="st4 st5" id="text27">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 366.8757 337.8)" class="st4 st5" id="text28">l</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 369.3196 337.8)" class="st4 st5" id="text29">l</ns0:text>
+			<ns0:text id="text30" transform="matrix(1 0 0 1 371.7634 337.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g14">
+		<ns0:path id="path13" pointer-events="stroke" class="st2" d="M398.5,204V47.4c0-6.7-3.3-10-10-10h-33.9c-6.7,0-10,0.5-10,1.5v1.5" />
+		<ns0:path id="path14" pointer-events="all" class="st3" d="M398.5,210.8l-4.5-9l4.5,2.3l4.5-2.3L398.5,210.8z" />
+	</ns0:g>
+	<ns0:g id="g16">
+		<ns0:g id="g15" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 408.405 113.8)" class="st4 st5" id="text31">P</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 415.7419 113.8)" class="st4 st5" id="text32">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 421.8596 113.8)" class="st4 st5" id="text33">g</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 427.9773 113.8)" class="st4 st5" id="text34">e</ns0:text>
+			<ns0:text id="text35" transform="matrix(1 0 0 1 434.095 113.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g17">
+		<ns0:path id="path16" pointer-events="stroke" class="st2" d="M474.8,262.5H624c6.7,0,10-1.4,10-4.1v-4.1" />
+		<ns0:path id="path17" pointer-events="all" class="st3" d="M634,247.5l4.5,9l-4.5-2.3l-4.5,2.3L634,247.5z" />
+	</ns0:g>
+	<ns0:g id="g19">
+		<ns0:g id="g18" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 524.2401 258.7999)" class="st4 st5" id="text36">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 532.184 258.7999)" class="st4 st5" id="text37">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 538.3016 258.7999)" class="st4 st5" id="text38">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 543.8016 258.7999)" class="st4 st5" id="text39">p</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 549.9193 258.7999)" class="st4 st5" id="text40">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 556.037 258.7999)" class="st4 st5" id="text41">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 562.1547 258.7999)" class="st4 st5" id="text42">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 567.6547 258.7999)" class="st4 st5" id="text43">e</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g20">
+		<ns0:path id="path19" pointer-events="stroke" class="st2" d="M472.7,270.5h157.2c6.7,0,10,3.3,10,10v13.3" />
+		<ns0:path id="path20" pointer-events="all" class="st3" d="M639.9,300.6l-4.5-9l4.5,2.3l4.5-2.3L639.9,300.6z" />
+	</ns0:g>
+	<ns0:g id="g22">
+		<ns0:g id="g21" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 525.2401 284.7999)" class="st4 st5" id="text44">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 533.184 284.7999)" class="st4 st5" id="text45">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 539.3016 284.7999)" class="st4 st5" id="text46">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 544.8016 284.7999)" class="st4 st5" id="text47">p</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 550.9193 284.7999)" class="st4 st5" id="text48">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 557.037 284.7999)" class="st4 st5" id="text49">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 563.1547 284.7999)" class="st4 st5" id="text50">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 568.6547 284.7999)" class="st4 st5" id="text51">e</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g23">
+		<ns0:ellipse id="ellipse22" pointer-events="all" class="st6" cx="425.5" cy="254" rx="50" ry="50" />
+		<ns0:ellipse id="ellipse23" pointer-events="all" class="st7" cx="425.5" cy="254" rx="46" ry="46" />
+	</ns0:g>
+	<ns0:g id="g26">
+		<ns0:path id="path25" pointer-events="stroke" class="st2" d="M636.4,188.7v-8.6c0-5.7-3.3-8.6-10-8.6H471.1c-6.7,0-10,3.3-10,10v28.7    " />
+		<ns0:path id="path26" pointer-events="all" class="st3" d="M461.1,217l-4.5-9l4.5,2.3l4.5-2.3L461.1,217z" />
+	</ns0:g>
+	<ns0:g id="g28">
+		<ns0:g id="g27" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 521.7058 193.7999)" class="st4 st5" id="text52">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 529.6497 193.7999)" class="st4 st5" id="text53">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 535.7673 193.7999)" class="st4 st5" id="text54">q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 541.885 193.7999)" class="st4 st5" id="text55">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 548.0027 193.7999)" class="st4 st5" id="text56">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 554.1204 193.7999)" class="st4 st5" id="text57">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 559.6204 193.7999)" class="st4 st5" id="text58">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 562.6765 193.7999)" class="st4 st5" id="text59">e</ns0:text>
+			<ns0:text id="text60" transform="matrix(1 0 0 1 568.7942 193.7999)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g29">
+		<ns0:rect id="rect28" x="582.5" y="187.5" pointer-events="all" class="st6" width="103" height="56" />
+	</ns0:g>
+	<ns0:g id="g31">
+		<ns0:g id="g30" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 621.3258 220.9)" class="st4 st8" id="text61">U</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 629.9918 220.9)" class="st4 st8" id="text62">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 635.9918 220.9)" class="st4 st8" id="text63">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 642.6656 220.9)" class="st4 st8" id="text64">r</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g32">
+		<ns0:path id="path31" pointer-events="stroke" class="st2" d="M268.5,537.3v42.2c0,6.7,3.3,10,10,10h259.7c6.7,0,10-3.3,10-10v-34.9" />
+		<ns0:path id="path32" pointer-events="all" class="st3" d="M548.2,539.3l3.5,7l-3.5-1.8l-3.5,1.8L548.2,539.3z" />
+	</ns0:g>
+	<ns0:g id="g34">
+		<ns0:g id="g33" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 383.3886 609.8)" class="st4 st5" id="text65">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 391.3324 609.8)" class="st4 st5" id="text66">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 397.4501 609.8)" class="st4 st5" id="text67">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 400.5063 609.8)" class="st4 st5" id="text68">a</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g35">
+		<ns0:path id="path34" pointer-events="stroke" class="st2" d="M323.5,487.6h92.1c6.7,0,10-3.3,10-10l-0.1-167.2" />
+		<ns0:path id="path35" pointer-events="all" class="st3" d="M425.5,305.1l3.5,7l-3.5-1.8l-3.5,1.8L425.5,305.1z" />
+	</ns0:g>
+	<ns0:g id="g37">
+		<ns0:g id="g36" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 440.3886 463.8)" class="st4 st5" id="text69">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 448.3324 463.8)" class="st4 st5" id="text70">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 454.4501 463.8)" class="st4 st5" id="text71">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 457.5063 463.8)" class="st4 st5" id="text72">a</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g38">
+		<ns0:ellipse id="ellipse37" pointer-events="all" class="st6" cx="273.5" cy="487.5" rx="50" ry="50" />
+		<ns0:ellipse id="ellipse38" pointer-events="all" class="st7" cx="273.5" cy="487.5" rx="46" ry="46" />
+	</ns0:g>
+	<ns0:g id="g40">
+		<ns0:g id="g39" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 239.4776 492.9001)" class="st4 st8" id="text73">I</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 242.8115 492.9001)" class="st4 st8" id="text74">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 249.4854 492.9001)" class="st4 st8" id="text75">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 252.8194 492.9001)" class="st4 st8" id="text76"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 256.1533 492.9001)" class="st4 st8" id="text77">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 264.8193 492.9001)" class="st4 st8" id="text78">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 271.4932 492.9001)" class="st4 st8" id="text79">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 274.8271 492.9001)" class="st4 st8" id="text80">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 281.501 492.9001)" class="st4 st8" id="text81">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 288.1748 492.9001)" class="st4 st8" id="text82">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 294.8486 492.9001)" class="st4 st8" id="text83">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 300.8486 492.9001)" class="st4 st8" id="text84">e</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g41">
+		<ns0:path id="path40" pointer-events="stroke" class="st2" d="M500,512.3H329.8" />
+		<ns0:path id="path41" pointer-events="all" class="st3" d="M324.6,512.3l7-3.5l-1.8,3.5l1.8,3.5L324.6,512.3z" />
+	</ns0:g>
+	<ns0:g id="g43">
+		<ns0:g id="g42" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 385.3886 531.8)" class="st4 st5" id="text85">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 393.3324 531.8)" class="st4 st5" id="text86">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 399.4501 531.8)" class="st4 st5" id="text87">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 402.5063 531.8)" class="st4 st5" id="text88">a</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g44">
+		<ns0:rect id="rect43" x="500" y="474.5" pointer-events="all" class="st0" width="96.5" height="63" />
+		<ns0:path id="path43" pointer-events="all" class="st2" d="M500,474.5h96.5 M596.5,537.5H500" />
+	</ns0:g>
+	<ns0:g id="g46">
+		<ns0:g id="g45" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 511.4805 511.9001)" class="st4 st8" id="text89">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 520.1465 511.9001)" class="st4 st8" id="text90">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 526.8203 511.9001)" class="st4 st8" id="text91">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 530.1543 511.9001)" class="st4 st8" id="text92">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 536.8281 511.9001)" class="st4 st8" id="text93">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 543.502 511.9001)" class="st4 st8" id="text94">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 550.1758 511.9001)" class="st4 st8" id="text95">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 556.1758 511.9001)" class="st4 st8" id="text96">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 562.8496 511.9001)" class="st4 st8" id="text97"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 566.1836 511.9001)" class="st4 st8" id="text98">F</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 573.5137 511.9001)" class="st4 st8" id="text99">i</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 576.1797 511.9001)" class="st4 st8" id="text100">l</ns0:text>
+			<ns0:text id="text101" transform="matrix(1 0 0 1 578.8457 511.9001)" class="st4 st8">e</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g47">
+		<ns0:rect id="rect46" x="256.5" y="12.5" pointer-events="all" class="st0" width="88.5" height="49" />
+		<ns0:path id="path46" pointer-events="all" class="st2" d="M256.5,12.5H345 M345,61.5h-88.5" />
+	</ns0:g>
+	<ns0:g id="g49">
+		<ns0:g id="g48" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 257.5 35.6999)" class="st4 st8" id="text102">W</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 268.8262 35.6999)" class="st4 st8" id="text103">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 275.5 35.6999)" class="st4 st8" id="text104">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 282.1738 35.6999)" class="st4 st8" id="text105"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 285.5078 35.6999)" class="st4 st8" id="text106">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 291.5078 35.6999)" class="st4 st8" id="text107">i</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 294.1738 35.6999)" class="st4 st8" id="text108">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 297.5078 35.6999)" class="st4 st8" id="text109">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 304.1816 35.6999)" class="st4 st8" id="text110"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 307.5156 35.6999)" class="st4 st8" id="text111">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 314.1895 35.6999)" class="st4 st8" id="text112">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 320.8633 35.6999)" class="st4 st8" id="text113"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 324.1973 35.6999)" class="st4 st8" id="text114">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 330.8711 35.6999)" class="st4 st8" id="text115">i</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 333.5371 35.6999)" class="st4 st8" id="text116">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 339.5371 35.6999)" class="st4 st8" id="text117">k</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g50">
+		<ns0:path id="path49" pointer-events="stroke" class="st2" d="M596.5,331.6H471.1c-6.7,0-10-3.3-10-10v-23.8" />
+		<ns0:path id="path50" pointer-events="all" class="st3" d="M461.1,291l4.5,9l-4.5-2.3l-4.5,2.3L461.1,291z" />
+	</ns0:g>
+	<ns0:g id="g52">
+		<ns0:g id="g51" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 523.7058 323.8)" class="st4 st5" id="text118">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 531.6497 323.8)" class="st4 st5" id="text119">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 537.7673 323.8)" class="st4 st5" id="text120">q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 543.885 323.8)" class="st4 st5" id="text121">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 550.0027 323.8)" class="st4 st5" id="text122">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 556.1204 323.8)" class="st4 st5" id="text123">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 561.6204 323.8)" class="st4 st5" id="text124">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 564.6765 323.8)" class="st4 st5" id="text125">e</ns0:text>
+			<ns0:text id="text126" transform="matrix(1 0 0 1 570.7942 323.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g53">
+		<ns0:rect id="rect52" x="596.5" y="303.5" pointer-events="all" class="st6" width="103" height="56" />
+	</ns0:g>
+	<ns0:g id="g55">
+		<ns0:g id="g54" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 630.9932 336.9001)" class="st4 st8" id="text127">A</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 638.9971 336.9001)" class="st4 st8" id="text128">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 645.6709 336.9001)" class="st4 st8" id="text129">m</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 655.667 336.9001)" class="st4 st8" id="text130">i</ns0:text>
+			<ns0:text id="text131" transform="matrix(1 0 0 1 658.333 336.9001)" class="st4 st8">n</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g56">
+		<ns0:path id="path55" pointer-events="stroke" class="st1" d="M526.5,146.5c-12.6,0-18.9,35.8-18.9,107.5c0,71.7,6.3,107.5,18.9,107.5    " />
+	</ns0:g>
+	<ns0:g id="g58">
+		<ns0:g id="g57" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 515.2294 143.7999)" class="st4 st5" id="text132">U</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 523.1732 143.7999)" class="st4 st5" id="text133">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 528.6732 143.7999)" class="st4 st5" id="text134">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 534.7909 143.7999)" class="st4 st5" id="text135">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 538.454 143.7999)" class="st4 st5" id="text136"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 541.5101 143.7999)" class="st4 st5" id="text137">/</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 544.5663 143.7999)" class="st4 st5" id="text138"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 547.6224 143.7999)" class="st4 st5" id="text139">W</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 558.0048 143.7999)" class="st4 st5" id="text140">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 564.1224 143.7999)" class="st4 st5" id="text141">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 570.2401 143.7999)" class="st4 st5" id="text142"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 573.2963 143.7999)" class="st4 st5" id="text143">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 578.7963 143.7999)" class="st4 st5" id="text144">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 584.9139 143.7999)" class="st4 st5" id="text145">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 588.577 143.7999)" class="st4 st5" id="text146">v</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 594.077 143.7999)" class="st4 st5" id="text147">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 600.1947 143.7999)" class="st4 st5" id="text148">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 603.8578 143.7999)" class="st4 st5" id="text149"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 606.9139 143.7999)" class="st4 st5" id="text150">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 613.0316 143.7999)" class="st4 st5" id="text151">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 619.1493 143.7999)" class="st4 st5" id="text152">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 625.267 143.7999)" class="st4 st5" id="text153">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 631.3846 143.7999)" class="st4 st5" id="text154">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 637.5023 143.7999)" class="st4 st5" id="text155">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 643.62 143.7999)" class="st4 st5" id="text156">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 647.2831 143.7999)" class="st4 st5" id="text157">y</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g60">
+		<ns0:g id="g59" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 494.2913 401.8)" class="st4 st5" id="text158">W</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 504.6736 401.8)" class="st4 st5" id="text159">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 510.7913 401.8)" class="st4 st5" id="text160">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 516.9089 401.8)" class="st4 st5" id="text161"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 519.9651 401.8)" class="st4 st5" id="text162">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 525.4651 401.8)" class="st4 st5" id="text163">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 531.5828 401.8)" class="st4 st5" id="text164">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 535.2458 401.8)" class="st4 st5" id="text165">v</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 540.7458 401.8)" class="st4 st5" id="text166">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 546.8635 401.8)" class="st4 st5" id="text167">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 550.5266 401.8)" class="st4 st5" id="text168"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 553.5828 401.8)" class="st4 st5" id="text169">/</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 556.6389 401.8)" class="st4 st5" id="text170"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 559.6951 401.8)" class="st4 st5" id="text171">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 567.639 401.8)" class="st4 st5" id="text172">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 573.7566 401.8)" class="st4 st5" id="text173">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 576.8127 401.8)" class="st4 st5" id="text174">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 582.9304 401.8)" class="st4 st5" id="text175">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 589.0481 401.8)" class="st4 st5" id="text176">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 595.1658 401.8)" class="st4 st5" id="text177">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 600.6658 401.8)" class="st4 st5" id="text178">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 606.7835 401.8)" class="st4 st5" id="text179"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 609.8396 401.8)" class="st4 st5" id="text180">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 615.9573 401.8)" class="st4 st5" id="text181">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 622.075 401.8)" class="st4 st5" id="text182">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 628.1926 401.8)" class="st4 st5" id="text183">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 634.3103 401.8)" class="st4 st5" id="text184">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 640.428 401.8)" class="st4 st5" id="text185">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 646.5457 401.8)" class="st4 st5" id="text186">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 650.2087 401.8)" class="st4 st5" id="text187">y</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g61">
+		<ns0:path id="path60" pointer-events="stroke" class="st1" d="M108.5,398.5c0,4,30,6,90,6s90-4.7,90-14" />
+	</ns0:g>
+	<ns0:g id="g63">
+		<ns0:g id="g62" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 55.8167 155.7999)" class="st4 st5" id="text188">M</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 64.9797 155.7999)" class="st4 st5" id="text189">i</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 67.4236 155.7999)" class="st4 st5" id="text190">c</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 72.9236 155.7999)" class="st4 st5" id="text191">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 76.5867 155.7999)" class="st4 st5" id="text192">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 82.7043 155.7999)" class="st4 st5" id="text193">c</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 88.2043 155.7999)" class="st4 st5" id="text194">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 94.322 155.7999)" class="st4 st5" id="text195">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 100.4397 155.7999)" class="st4 st5" id="text196">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 103.4958 155.7999)" class="st4 st5" id="text197">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 107.1589 155.7999)" class="st4 st5" id="text198">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 113.2766 155.7999)" class="st4 st5" id="text199">l</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 115.7205 155.7999)" class="st4 st5" id="text200">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 121.8381 155.7999)" class="st4 st5" id="text201">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 127.9558 155.7999)" class="st4 st5" id="text202">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 134.0735 155.7999)" class="st4 st5" id="text203">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 137.7366 155.7999)" class="st4 st5" id="text204">/</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 140.7927 155.7999)" class="st4 st5" id="text205"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 143.8489 155.7999)" class="st4 st5" id="text206">G</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 152.405 155.7999)" class="st4 st5" id="text207">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 158.5227 155.7999)" class="st4 st5" id="text208">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 161.5789 155.7999)" class="st4 st5" id="text209">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 167.6965 155.7999)" class="st4 st5" id="text210">w</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 175.6404 155.7999)" class="st4 st5" id="text211">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 181.7581 155.7999)" class="st4 st5" id="text212">y</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 187.2581 155.7999)" class="st4 st5" id="text213"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 190.3142 155.7999)" class="st4 st5" id="text214">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 196.4319 155.7999)" class="st4 st5" id="text215">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 202.5496 155.7999)" class="st4 st5" id="text216">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 208.6672 155.7999)" class="st4 st5" id="text217">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 214.7849 155.7999)" class="st4 st5" id="text218">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 220.9026 155.7999)" class="st4 st5" id="text219">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 227.0203 155.7999)" class="st4 st5" id="text220">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 230.6833 155.7999)" class="st4 st5" id="text221">y</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g64">
+		<ns0:path id="path63" pointer-events="stroke" class="st2" d="M112.5,253.5l69.3-0.1" />
+		<ns0:path id="path64" pointer-events="all" class="st3" d="M187,253.4l-7,3.5l1.8-3.5l-1.8-3.5L187,253.4z" />
+	</ns0:g>
+	<ns0:g id="g65">
+		<ns0:ellipse id="ellipse64" pointer-events="all" class="st6" cx="62.5" cy="253.5" rx="50" ry="50" />
+		<ns0:ellipse id="ellipse65" pointer-events="all" class="st7" cx="62.5" cy="253.5" rx="46" ry="46" />
+	</ns0:g>
+	<ns0:g id="g67">
+		<ns0:g id="g66" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 21.54 258.7999)" class="st4 st5" id="text222">M</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 30.7031 258.7999)" class="st4 st5" id="text223">i</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 33.147 258.7999)" class="st4 st5" id="text224">c</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 38.647 258.7999)" class="st4 st5" id="text225">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 42.3101 258.7999)" class="st4 st5" id="text226">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 48.4277 258.7999)" class="st4 st5" id="text227">c</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 53.9277 258.7999)" class="st4 st5" id="text228">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 60.0454 258.7999)" class="st4 st5" id="text229">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 66.1631 258.7999)" class="st4 st5" id="text230">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 69.2192 258.7999)" class="st4 st5" id="text231">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 72.8823 258.7999)" class="st4 st5" id="text232">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 79 258.7999)" class="st4 st5" id="text233">l</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 81.4438 258.7999)" class="st4 st5" id="text234">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 87.5615 258.7999)" class="st4 st5" id="text235">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 93.6792 258.7999)" class="st4 st5" id="text236">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 99.7969 258.7999)" class="st4 st5" id="text237">r</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g68">
+		<ns0:path id="path67" pointer-events="stroke" class="st1" d="M122.5,165.5c15.4,0,23.1,31.4,23.1,94.1s-7.7,94-23.1,93.9" />
+	</ns0:g>
+	<ns0:g id="g69">
+		<ns0:path id="path68" pointer-events="stroke" class="st2" d="M199.6,285.4v192.2c0,6.7,2.9,10,8.8,10h8.8" />
+		<ns0:path id="path69" pointer-events="all" class="st3" d="M222.4,487.6l-7,3.5l1.8-3.5l-1.8-3.5L222.4,487.6z" />
+	</ns0:g>
+	<ns0:g id="g71">
+		<ns0:g id="g70" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 114.7366 443.8)" class="st4 st5" id="text238">S</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 122.0735 443.8)" class="st4 st5" id="text239">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 130.6296 443.8)" class="st4 st5" id="text240">L</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 136.7473 443.8)" class="st4 st5" id="text241"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 139.8035 443.8)" class="st4 st5" id="text242">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 148.3596 443.8)" class="st4 st5" id="text243">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 154.4773 443.8)" class="st4 st5" id="text244">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 160.595 443.8)" class="st4 st5" id="text245">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 164.2581 443.8)" class="st4 st5" id="text246">y</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 169.7581 443.8)" class="st4 st5" id="text247"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 172.8142 443.8)" class="st4 st5" id="text248">C</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 180.7581 443.8)" class="st4 st5" id="text249">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 186.8757 443.8)" class="st4 st5" id="text250">l</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 189.3196 443.8)" class="st4 st5" id="text251">l</ns0:text>
+			<ns0:text id="text252" transform="matrix(1 0 0 1 191.7634 443.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g72">
+		<ns0:path id="path71" pointer-events="stroke" class="st1" d="M323.5,386.5c0-3.3,26.6-4.9,79.5-4.9c53,0,79.5,1.6,79.5,4.9" />
+	</ns0:g>
+	<ns0:g id="g73">
+		<ns0:path id="path72" pointer-events="stroke" class="st2" d="M380.5,275.8v173.5c0,6.7-3.3,10-10,10h-47.8" />
+		<ns0:path id="path73" pointer-events="all" class="st3" d="M317.5,459.3l7-3.5l-1.8,3.5l1.8,3.5L317.5,459.3z" />
+	</ns0:g>
+	<ns0:g id="g75">
+		<ns0:g id="g74" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 294.7366 337.8)" class="st4 st5" id="text253">S</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 302.0735 337.8)" class="st4 st5" id="text254">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 310.6296 337.8)" class="st4 st5" id="text255">L</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 316.7473 337.8)" class="st4 st5" id="text256"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 319.8035 337.8)" class="st4 st5" id="text257">Q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 328.3596 337.8)" class="st4 st5" id="text258">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 334.4773 337.8)" class="st4 st5" id="text259">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 340.595 337.8)" class="st4 st5" id="text260">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 344.2581 337.8)" class="st4 st5" id="text261">y</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 349.7581 337.8)" class="st4 st5" id="text262"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 352.8142 337.8)" class="st4 st5" id="text263">C</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 360.7581 337.8)" class="st4 st5" id="text264">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 366.8757 337.8)" class="st4 st5" id="text265">l</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 369.3196 337.8)" class="st4 st5" id="text266">l</ns0:text>
+			<ns0:text id="text267" transform="matrix(1 0 0 1 371.7634 337.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g76">
+		<ns0:path id="path75" pointer-events="stroke" class="st2" d="M398.5,204V47.4c0-6.7-3.3-10-10-10h-33.9c-6.7,0-10,0.5-10,1.5v1.5" />
+		<ns0:path id="path76" pointer-events="all" class="st3" d="M398.5,210.8l-4.5-9l4.5,2.3l4.5-2.3L398.5,210.8z" />
+	</ns0:g>
+	<ns0:g id="g78">
+		<ns0:g id="g77" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 408.405 113.8)" class="st4 st5" id="text268">P</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 415.7419 113.8)" class="st4 st5" id="text269">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 421.8596 113.8)" class="st4 st5" id="text270">g</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 427.9773 113.8)" class="st4 st5" id="text271">e</ns0:text>
+			<ns0:text id="text272" transform="matrix(1 0 0 1 434.095 113.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g79">
+		<ns0:path id="path78" pointer-events="stroke" class="st2" d="M474.8,262.5H624c6.7,0,10-1.4,10-4.1v-4.1" />
+		<ns0:path id="path79" pointer-events="all" class="st3" d="M634,247.5l4.5,9l-4.5-2.3l-4.5,2.3L634,247.5z" />
+	</ns0:g>
+	<ns0:g id="g81">
+		<ns0:g id="g80" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 524.2401 258.7999)" class="st4 st5" id="text273">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 532.184 258.7999)" class="st4 st5" id="text274">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 538.3016 258.7999)" class="st4 st5" id="text275">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 543.8016 258.7999)" class="st4 st5" id="text276">p</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 549.9193 258.7999)" class="st4 st5" id="text277">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 556.037 258.7999)" class="st4 st5" id="text278">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 562.1547 258.7999)" class="st4 st5" id="text279">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 567.6547 258.7999)" class="st4 st5" id="text280">e</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g82">
+		<ns0:path id="path81" pointer-events="stroke" class="st2" d="M472.7,270.5h157.2c6.7,0,10,3.3,10,10v13.3" />
+		<ns0:path id="path82" pointer-events="all" class="st3" d="M639.9,300.6l-4.5-9l4.5,2.3l4.5-2.3L639.9,300.6z" />
+	</ns0:g>
+	<ns0:g id="g84">
+		<ns0:g id="g83" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 525.2401 284.7999)" class="st4 st5" id="text281">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 533.184 284.7999)" class="st4 st5" id="text282">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 539.3016 284.7999)" class="st4 st5" id="text283">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 544.8016 284.7999)" class="st4 st5" id="text284">p</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 550.9193 284.7999)" class="st4 st5" id="text285">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 557.037 284.7999)" class="st4 st5" id="text286">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 563.1547 284.7999)" class="st4 st5" id="text287">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 568.6547 284.7999)" class="st4 st5" id="text288">e</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g85">
+		<ns0:path id="path84" pointer-events="stroke" class="st2" d="M636.4,188.7v-8.6c0-5.7-3.3-8.6-10-8.6H471.1c-6.7,0-10,3.3-10,10v28.7    " />
+		<ns0:path id="path85" pointer-events="all" class="st3" d="M461.1,217l-4.5-9l4.5,2.3l4.5-2.3L461.1,217z" />
+	</ns0:g>
+	<ns0:g id="g87">
+		<ns0:g id="g86" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 521.7058 193.7999)" class="st4 st5" id="text289">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 529.6497 193.7999)" class="st4 st5" id="text290">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 535.7673 193.7999)" class="st4 st5" id="text291">q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 541.885 193.7999)" class="st4 st5" id="text292">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 548.0027 193.7999)" class="st4 st5" id="text293">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 554.1204 193.7999)" class="st4 st5" id="text294">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 559.6204 193.7999)" class="st4 st5" id="text295">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 562.6765 193.7999)" class="st4 st5" id="text296">e</ns0:text>
+			<ns0:text id="text297" transform="matrix(1 0 0 1 568.7942 193.7999)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g88">
+		<ns0:path id="path87" pointer-events="stroke" class="st2" d="M268.5,537.3v42.2c0,6.7,3.3,10,10,10h259.7c6.7,0,10-3.3,10-10v-34.9" />
+		<ns0:path id="path88" pointer-events="all" class="st3" d="M548.2,539.3l3.5,7l-3.5-1.8l-3.5,1.8L548.2,539.3z" />
+	</ns0:g>
+	<ns0:g id="g90">
+		<ns0:g id="g89" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 383.3886 609.8)" class="st4 st5" id="text298">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 391.3324 609.8)" class="st4 st5" id="text299">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 397.4501 609.8)" class="st4 st5" id="text300">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 400.5063 609.8)" class="st4 st5" id="text301">a</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g91">
+		<ns0:path id="path90" pointer-events="stroke" class="st2" d="M323.5,487.6h92.1c6.7,0,10-3.3,10-10l-0.1-167.2" />
+		<ns0:path id="path91" pointer-events="all" class="st3" d="M425.5,305.1l3.5,7l-3.5-1.8l-3.5,1.8L425.5,305.1z" />
+	</ns0:g>
+	<ns0:g id="g93">
+		<ns0:g id="g92" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 440.3886 463.8)" class="st4 st5" id="text302">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 448.3324 463.8)" class="st4 st5" id="text303">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 454.4501 463.8)" class="st4 st5" id="text304">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 457.5063 463.8)" class="st4 st5" id="text305">a</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g94">
+		<ns0:path id="path93" pointer-events="stroke" class="st2" d="M500,512.3H329.8" />
+		<ns0:path id="path94" pointer-events="all" class="st3" d="M324.6,512.3l7-3.5l-1.8,3.5l1.8,3.5L324.6,512.3z" />
+	</ns0:g>
+	<ns0:g id="g96">
+		<ns0:g id="g95" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 385.3886 531.8)" class="st4 st5" id="text306">D</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 393.3324 531.8)" class="st4 st5" id="text307">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 399.4501 531.8)" class="st4 st5" id="text308">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 402.5063 531.8)" class="st4 st5" id="text309">a</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g97">
+		<ns0:path id="path96" pointer-events="stroke" class="st2" d="M596.5,331.6H471.1c-6.7,0-10-3.3-10-10v-23.8" />
+		<ns0:path id="path97" pointer-events="all" class="st3" d="M461.1,291l4.5,9l-4.5-2.3l-4.5,2.3L461.1,291z" />
+	</ns0:g>
+	<ns0:g id="g99">
+		<ns0:g id="g98" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 523.7058 323.8)" class="st4 st5" id="text310">R</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 531.6497 323.8)" class="st4 st5" id="text311">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 537.7673 323.8)" class="st4 st5" id="text312">q</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 543.885 323.8)" class="st4 st5" id="text313">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 550.0027 323.8)" class="st4 st5" id="text314">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 556.1204 323.8)" class="st4 st5" id="text315">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 561.6204 323.8)" class="st4 st5" id="text316">t</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 564.6765 323.8)" class="st4 st5" id="text317">e</ns0:text>
+			<ns0:text id="text318" transform="matrix(1 0 0 1 570.7942 323.8)" class="st4 st5">s</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g100">
+		<ns0:path id="path99" pointer-events="stroke" class="st1" d="M526.5,146.5c-12.6,0-18.9,35.8-18.9,107.5c0,71.7,6.3,107.5,18.9,107.5    " />
+	</ns0:g>
+	<ns0:g id="g102">
+		<ns0:g id="g101" transform="translate(-0.5 -0.5)">
+			<ns0:text transform="matrix(1 0 0 1 515.2294 143.7999)" class="st4 st5" id="text319">U</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 523.1732 143.7999)" class="st4 st5" id="text320">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 528.6732 143.7999)" class="st4 st5" id="text321">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 534.7909 143.7999)" class="st4 st5" id="text322">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 538.454 143.7999)" class="st4 st5" id="text323"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 541.5101 143.7999)" class="st4 st5" id="text324">/</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 544.5663 143.7999)" class="st4 st5" id="text325"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 547.6224 143.7999)" class="st4 st5" id="text326">W</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 558.0048 143.7999)" class="st4 st5" id="text327">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 564.1224 143.7999)" class="st4 st5" id="text328">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 570.2401 143.7999)" class="st4 st5" id="text329"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 573.2963 143.7999)" class="st4 st5" id="text330">s</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 578.7963 143.7999)" class="st4 st5" id="text331">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 584.9139 143.7999)" class="st4 st5" id="text332">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 588.577 143.7999)" class="st4 st5" id="text333">v</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 594.077 143.7999)" class="st4 st5" id="text334">e</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 600.1947 143.7999)" class="st4 st5" id="text335">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 603.8578 143.7999)" class="st4 st5" id="text336"> </ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 606.9139 143.7999)" class="st4 st5" id="text337">b</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 613.0316 143.7999)" class="st4 st5" id="text338">o</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 619.1493 143.7999)" class="st4 st5" id="text339">u</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 625.267 143.7999)" class="st4 st5" id="text340">n</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 631.3846 143.7999)" class="st4 st5" id="text341">d</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 637.5023 143.7999)" class="st4 st5" id="text342">a</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 643.62 143.7999)" class="st4 st5" id="text343">r</ns0:text>
+			<ns0:text transform="matrix(1 0 0 1 647.2831 143.7999)" class="st4 st5" id="text344">y</ns0:text>
+		</ns0:g>
+	</ns0:g>
+	<ns0:g id="g103">
+		<ns0:path id="path102" pointer-events="stroke" class="st1" d="M108.5,398.5c0,4,30,6,90,6s90-4.7,90-14" />
+	</ns0:g>
+	<ns0:g id="g104">
+		<ns0:path id="path103" pointer-events="stroke" class="st2" d="M112.5,253.5l69.3-0.1" />
+		<ns0:path id="path104" pointer-events="all" class="st3" d="M187,253.4l-7,3.5l1.8-3.5l-1.8-3.5L187,253.4z" />
+	</ns0:g>
+</ns0:g>
+<ns0:a id="a106" transform="translate(0,-5)">
+</ns0:a>
+<ns0:text transform="matrix(1 0 0 1 392.0547 249.9592)" class="st4 st8" id="text345">Iot Website</ns0:text>
+<ns0:text transform="matrix(1 0 0 1 395.6114 265.0687)" class="st4 st8" id="text346">/ Node JS</ns0:text>
+<ns0:text transform="matrix(1 0 0 1 214.6999 238.9899)" class="st4 st8" id="text347">Gateway</ns0:text>
+<ns0:text transform="matrix(1 0 0 1 226.3747 254.0993)" class="st4 st8" id="text348">/ OS</ns0:text>
+<ns0:text transform="matrix(1 0 0 1 198.8181 269.2087)" class="st4 st8" id="text349">/ Broker MQTT&#160;</ns0:text>
+<ns0:path class="st0" d="z" id="path349" />
+</ns0:svg>
