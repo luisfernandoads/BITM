@@ -180,9 +180,7 @@
                style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 90px; height: 1px; padding-top: 254px; margin-left: 193px;">
               <xhtml:div
                  style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                <xhtml:div
-                   ani=""
-                   style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;, &quot;VP Default&quot;; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">Gateway / OS / Broker MQTT </xhtml:div>
+                
               </xhtml:div>
             </xhtml:div>
           </foreignObject>
