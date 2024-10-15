@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="2.8085366"
-     inkscape:cx="246.92574"
-     inkscape:cy="116.25271"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1072"
-     inkscape:window-y="1028"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g7" />
+     inkscape:zoom="1.4042683"
+     inkscape:cx="251.73252"
+     inkscape:cy="122.83977"
+     inkscape:window-width="1448"
+     inkscape:window-height="667"
+     inkscape:window-x="1354"
+     inkscape:window-y="1205"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g51" />
   <defs
      id="defs2">
     <style
@@ -154,7 +154,7 @@
          id="g7">
         <text
            xml:space="preserve"
-           style="fill:#000000;fill-opacity:1;stroke:none"
+           style="fill:#000000;fill-opacity:1;stroke:none;font-size:11px"
            x="247.08629"
            y="123.5519"
            id="text1"><tspan
@@ -162,12 +162,12 @@
              id="tspan1"
              x="247.08629"
              y="123.5519"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Dispositivo</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;font-size:11px">Dispositivo</tspan><tspan
              sodipodi:role="line"
              x="247.08629"
              y="138.66133"
              id="tspan2"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle">Microcontrolador</tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;text-anchor:middle;font-size:11px">Microcontrolador</tspan></text>
       </g>
     </g>
     <g
@@ -292,13 +292,15 @@
                font-size="12px"
                font-family="Helvetica, &quot;VP Default&quot;"
                font-weight="400"
-               id="text13"><textPath
+               id="text13"
+               style="font-size:11px"><textPath
                  xlink:href="#76gMnQmBQenOnwIu"
                  startOffset="50%"
                  text-anchor="middle"
                  id="textPath13"><tspan
                    xml:space="preserve"
-                   id="tspan13">Gateway</tspan></textPath></text>
+                   id="tspan13"
+                   style="font-size:11px">Gateway</tspan></textPath></text>
           </svg>
         </switch>
       </g>
